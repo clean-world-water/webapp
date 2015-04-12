@@ -12,22 +12,94 @@
   <script src="../Build/Cesium/Cesium.js"></script>
   <style>
       @import url(../Build/Cesium/Widgets/widgets.css);
-      html, body, #cesiumContainer {
-          width: 90%; height: 90%; margin: 0; padding: 0; overflow: hidden;
+
+      #bodyContents {
+        margin: 0 auto;
+        width: 960px; 
       }
-  html {
-        height: 100%;
+      #utility {
+        height: 48px;
+        background-color: #4d5c75;
+      }
+      #thumbIcon {
+        float: left;
+        margin-left: 760px;
+      }
+      #userName {
+        width: 120px;
+        float: left;
+        padding-left: 10px;
+        padding-top: 14px;
+        color: #FFF;
+      }
+      #headerContainer {
+        height: 160px;
+      }
+      #logoimg {
+        margin-top: 46px;
+        margin-left: 20px;
+        float: left;
+      }
+      #navContainer {
+        margin-top: 26px;
+        float: right;
+      }
+      #navContainer img {
+        margin-right: 20px;
+      }
+      #cesiumContainer {
+          width: 960px; height: 600px; margin: 0; padding: 0; overflow: hidden;
+      }
+      #formContainer {
+          margin: 0 auto;
+          width: 960px;
+          margin-top: 90px;
+      }
+      #formTitle {
+          margin-left: 252px;
+      }
+      #formBottom {
+        margin-bottom: 100px;
+      }
+      html {
+/*        height: 100%;*/
       }
 
       body {
         padding: 0;
         margin: 0;
-        overflow: hidden;
-        height: 100%;
+/*        overflow: hidden;
+        height: 100%;*/
       }  </style>
 </head>
 <body>
-  <div id="cesiumContainer"></div>
+
+<div id="bodyContents">
+<div id="utility">
+  <img src="../static/image/img_user_thumb.png" width="52px" height="48px" id="thumbIcon" />
+  <div id="userName">Yuichi Yazaki</div>
+</div>
+<div id="headerContainer">
+  <img src="../static/image/logo.png" width="186px" height="68px" id="logoimg" />
+  <div id="navContainer">
+      <img src="../static/image/btn_submit.png" width="62px" height="104px" class="btnimg" />
+      <img src="../static/image/btn_local.png" width="62px" height="104px" class="btnimg" />
+  </div>
+</div>
+<div id="cesiumContainer"></div>
+
+<div id="formContainer">
+  <img src="../static/image/img_txt_submit.png" width="436px" height="119px" id="formTitle" />
+  <img src="../static/image/formCapture.png" width="940px" height="1122px" id="formCapture" />
+  <img src="../static/image/formBottom.png" width="940px" height="157px" id="formBottom" />
+
+
+</div>
+
+
+
+
+</div>
   <script>
   function tm(unix_tm) {
        var dt = new Date(unix_tm*1000);
@@ -138,5 +210,9 @@ d3.csv('/data/water_out.csv', function(err, data)
 });
 
 </script>
+
+
+
+
 </body>
 </html>
