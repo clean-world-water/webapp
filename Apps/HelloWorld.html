@@ -35,16 +35,21 @@
 
    }
    var focus_index = 0;
-    var viewer = new Cesium.Viewer('cesiumContainer');
+    var viewer = new Cesium.Viewer('cesiumContainer',{
+    imageryProvider : new Cesium.OpenStreetMapImageryProvider({
+                url: 'http://stamen-tiles.a.ssl.fastly.net/watercolor/',
+                fileExtension: 'jpg',
+                credit: 'Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under CC BY SA.'
+    }),
+    baseLayerPicker : false
+    });
 
 d3.json("https://pure-water-mapper.herokuapp.com/userinputs/get", function(error, data){
     if (error != null) {
       console.log(err);
       return;
     }
-    console.log(data);
     data.forEach(function(d){
-      console.log(d);
       if(d.lat == null || d.lon == null || d.waterInfrastructure == null)
         return;
 
