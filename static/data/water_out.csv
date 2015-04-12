@@ -1,0 +1,2461 @@
+country_name,country_code,latitude,longitude,year,water_stress_index,water_stress_category
+Afghanistan,AFG,33,65,1962,5157.637192,No Stress
+Afghanistan,AFG,33,65,1967,4612.644496,No Stress
+Afghanistan,AFG,33,65,1972,4049.164674,No Stress
+Afghanistan,AFG,33,65,1977,3617.334358,No Stress
+Afghanistan,AFG,33,65,1982,3731.847116,No Stress
+Afghanistan,AFG,33,65,1987,4261.913041,No Stress
+Afghanistan,AFG,33,65,1992,3413.728881,No Stress
+Afghanistan,AFG,33,65,1997,2478.809726,No Stress
+Afghanistan,AFG,33,65,2002,2123.605458,No Stress
+Afghanistan,AFG,33,65,2007,1789.425222,No Stress
+Afghanistan,AFG,33,65,2012,1580.913111,Stress
+Afghanistan,AFG,33,65,2013,1543.286957,Stress
+Albania,ALB,41,20,1962,15718.86948,No Stress
+Albania,ALB,41,20,1967,13685.40261,No Stress
+Albania,ALB,41,20,1972,11992.19304,No Stress
+Albania,ALB,41,20,1977,10702.01222,No Stress
+Albania,ALB,41,20,1982,9661.391571,No Stress
+Albania,ALB,41,20,1987,8723.555708,No Stress
+Albania,ALB,41,20,1992,8284.470867,No Stress
+Albania,ALB,41,20,1997,8544.345311,No Stress
+Albania,ALB,41,20,2002,8816.752485,No Stress
+Albania,ALB,41,20,2007,9057.187215,No Stress
+Albania,ALB,41,20,2012,9274.29823,No Stress
+Albania,ALB,41,20,2013,9284.29477,No Stress
+Algeria,DZA,28,3,1962,949.7736077,Scarcity
+Algeria,DZA,28,3,1967,833.5446832,Scarcity
+Algeria,DZA,28,3,1972,725.2500211,Scarcity
+Algeria,DZA,28,3,1977,631.7195305,Scarcity
+Algeria,DZA,28,3,1982,541.7361213,Scarcity
+Algeria,DZA,28,3,1987,464.381946,Absolute Scarcity
+Algeria,DZA,28,3,1992,408.5686692,Absolute Scarcity
+Algeria,DZA,28,3,1997,370.7308367,Absolute Scarcity
+Algeria,DZA,28,3,2002,345.3783177,Absolute Scarcity
+Algeria,DZA,28,3,2007,320.5398244,Absolute Scarcity
+Algeria,DZA,28,3,2012,292.3467138,Absolute Scarcity
+Algeria,DZA,28,3,2013,286.9298188,Absolute Scarcity
+American Samoa,ASM,-14.3333,-170,1962,,-
+American Samoa,ASM,-14.3333,-170,1967,,-
+American Samoa,ASM,-14.3333,-170,1972,,-
+American Samoa,ASM,-14.3333,-170,1977,,-
+American Samoa,ASM,-14.3333,-170,1982,,-
+American Samoa,ASM,-14.3333,-170,1987,,-
+American Samoa,ASM,-14.3333,-170,1992,,-
+American Samoa,ASM,-14.3333,-170,1997,,-
+American Samoa,ASM,-14.3333,-170,2002,,-
+American Samoa,ASM,-14.3333,-170,2007,,-
+American Samoa,ASM,-14.3333,-170,2012,,-
+American Samoa,ASM,-14.3333,-170,2013,,-
+Andorra,AND,42.5,1.6,1962,20525.49428,No Stress
+Andorra,AND,42.5,1.6,1967,15205.97446,No Stress
+Andorra,AND,42.5,1.6,1972,11735.83222,No Stress
+Andorra,AND,42.5,1.6,1977,9631.05374,No Stress
+Andorra,AND,42.5,1.6,1982,8069.134792,No Stress
+Andorra,AND,42.5,1.6,1987,6512.856494,No Stress
+Andorra,AND,42.5,1.6,1992,5357.870433,No Stress
+Andorra,AND,42.5,1.6,1997,4924.325168,No Stress
+Andorra,AND,42.5,1.6,2002,4405.421628,No Stress
+Andorra,AND,42.5,1.6,2007,3882.300841,No Stress
+Andorra,AND,42.5,1.6,2012,4027.565084,No Stress
+Andorra,AND,42.5,1.6,2013,3983.943043,No Stress
+Angola,AGO,-12.5,18.5,1962,28737.43999,No Stress
+Angola,AGO,-12.5,18.5,1967,26336.19253,No Stress
+Angola,AGO,-12.5,18.5,1972,23944.87631,No Stress
+Angola,AGO,-12.5,18.5,1977,21174.4676,No Stress
+Angola,AGO,-12.5,18.5,1982,18070.61287,No Stress
+Angola,AGO,-12.5,18.5,1987,15479.51673,No Stress
+Angola,AGO,-12.5,18.5,1992,13451.17288,No Stress
+Angola,AGO,-12.5,18.5,1997,11570.28463,No Stress
+Angola,AGO,-12.5,18.5,2002,9941.844242,No Stress
+Angola,AGO,-12.5,18.5,2007,8355.528176,No Stress
+Angola,AGO,-12.5,18.5,2012,7108.370226,No Stress
+Angola,AGO,-12.5,18.5,2013,6892.820094,No Stress
+Antigua and Barbuda,ATG,17.05,-61.8,1962,923.4430218,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,1967,838.6826231,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,1972,773.751953,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,1977,740.4981274,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,1982,754.1696882,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,1987,819.1040262,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,1992,819.7496611,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,1997,719.9025363,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,2002,649.7563414,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,2007,616.1356446,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,2012,583.8170407,Scarcity
+Antigua and Barbuda,ATG,17.05,-61.8,2013,577.8740901,Scarcity
+Argentina,ARG,-34,-64,1962,12960.61242,No Stress
+Argentina,ARG,-34,-64,1967,12030.61163,No Stress
+Argentina,ARG,-34,-64,1972,11135.3947,No Stress
+Argentina,ARG,-34,-64,1977,10264.12876,No Stress
+Argentina,ARG,-34,-64,1982,9520.830076,No Stress
+Argentina,ARG,-34,-64,1987,8830.707467,No Stress
+Argentina,ARG,-34,-64,1992,8711.008504,No Stress
+Argentina,ARG,-34,-64,1997,8181.385119,No Stress
+Argentina,ARG,-34,-64,2002,7760.272428,No Stress
+Argentina,ARG,-34,-64,2007,7424.101843,No Stress
+Argentina,ARG,-34,-64,2012,7106.883413,No Stress
+Argentina,ARG,-34,-64,2013,7045.270155,No Stress
+Armenia,ARM,40,45,1962,,-
+Armenia,ARM,40,45,1967,,-
+Armenia,ARM,40,45,1972,,-
+Armenia,ARM,40,45,1977,,-
+Armenia,ARM,40,45,1982,,-
+Armenia,ARM,40,45,1987,,-
+Armenia,ARM,40,45,1992,1988.405846,No Stress
+Armenia,ARM,40,45,1997,2186.029553,No Stress
+Armenia,ARM,40,45,2002,2251.065145,No Stress
+Armenia,ARM,40,45,2007,2294.070468,No Stress
+Armenia,ARM,40,45,2012,2310.142431,No Stress
+Armenia,ARM,40,45,2013,2304.333248,No Stress
+Aruba,ABW,12.5,-69.9667,1962,,-
+Aruba,ABW,12.5,-69.9667,1967,,-
+Aruba,ABW,12.5,-69.9667,1972,,-
+Aruba,ABW,12.5,-69.9667,1977,,-
+Aruba,ABW,12.5,-69.9667,1982,,-
+Aruba,ABW,12.5,-69.9667,1987,,-
+Aruba,ABW,12.5,-69.9667,1992,,-
+Aruba,ABW,12.5,-69.9667,1997,,-
+Aruba,ABW,12.5,-69.9667,2002,,-
+Aruba,ABW,12.5,-69.9667,2007,,-
+Aruba,ABW,12.5,-69.9667,2012,,-
+Aruba,ABW,12.5,-69.9667,2013,,-
+Australia,AUS,-27,133,1962,45801.52672,No Stress
+Australia,AUS,-27,133,1967,41698.44902,No Stress
+Australia,AUS,-27,133,1972,37337.78554,No Stress
+Australia,AUS,-27,133,1977,34667.41826,No Stress
+Australia,AUS,-27,133,1982,32415.33799,No Stress
+Australia,AUS,-27,133,1987,30251.0468,No Stress
+Australia,AUS,-27,133,1992,28122.32066,No Stress
+Australia,AUS,-27,133,1997,26570.17875,No Stress
+Australia,AUS,-27,133,2002,25036.38418,No Stress
+Australia,AUS,-27,133,2007,23622.50091,No Stress
+Australia,AUS,-27,133,2012,21647.02155,No Stress
+Australia,AUS,-27,133,2013,21271.72029,No Stress
+Austria,AUT,47.3333,13.3333,1962,7714.032133,No Stress
+Austria,AUT,47.3333,13.3333,1967,7455.607281,No Stress
+Austria,AUT,47.3333,13.3333,1972,7290.367794,No Stress
+Austria,AUT,47.3333,13.3333,1977,7267.028961,No Stress
+Austria,AUT,47.3333,13.3333,1982,7261.550486,No Stress
+Austria,AUT,47.3333,13.3333,1987,7261.122918,No Stress
+Austria,AUT,47.3333,13.3333,1992,7014.67176,No Stress
+Austria,AUT,47.3333,13.3333,1997,6902.574924,No Stress
+Austria,AUT,47.3333,13.3333,2002,6805.282433,No Stress
+Austria,AUT,47.3333,13.3333,2007,6630.111047,No Stress
+Austria,AUT,47.3333,13.3333,2012,6524.324878,No Stress
+Austria,AUT,47.3333,13.3333,2013,6485.984436,No Stress
+Azerbaijan,AZE,40.5,47.5,1962,,-
+Azerbaijan,AZE,40.5,47.5,1967,,-
+Azerbaijan,AZE,40.5,47.5,1972,,-
+Azerbaijan,AZE,40.5,47.5,1977,,-
+Azerbaijan,AZE,40.5,47.5,1982,,-
+Azerbaijan,AZE,40.5,47.5,1987,,-
+Azerbaijan,AZE,40.5,47.5,1992,1099.295584,Stress
+Azerbaijan,AZE,40.5,47.5,1997,1035.307626,Stress
+Azerbaijan,AZE,40.5,47.5,2002,993.0310391,Scarcity
+Azerbaijan,AZE,40.5,47.5,2007,945.6609138,Scarcity
+Azerbaijan,AZE,40.5,47.5,2012,872.9763945,Scarcity
+Azerbaijan,AZE,40.5,47.5,2013,861.7576181,Scarcity
+Bahamas,BHS,24.25,-76,1962,165.1759537,Absolute Scarcity
+Bahamas,BHS,24.25,-76,1967,131.0555872,Absolute Scarcity
+Bahamas,BHS,24.25,-76,1972,112.4581094,Absolute Scarcity
+Bahamas,BHS,24.25,-76,1977,101.4620684,Absolute Scarcity
+Bahamas,BHS,24.25,-76,1982,90.79600861,Absolute Scarcity
+Bahamas,BHS,24.25,-76,1987,82.17028147,Absolute Scarcity
+Bahamas,BHS,24.25,-76,1992,75.16056175,Absolute Scarcity
+Bahamas,BHS,24.25,-76,1997,69.724067,Absolute Scarcity
+Bahamas,BHS,24.25,-76,2002,64.71675096,Absolute Scarcity
+Bahamas,BHS,24.25,-76,2007,58.47115472,Absolute Scarcity
+Bahamas,BHS,24.25,-76,2012,53.7692225,Absolute Scarcity
+Bahamas,BHS,24.25,-76,2013,52.99782179,Absolute Scarcity
+Bahrain,BHR,26,50.55,1962,23.10709561,Absolute Scarcity
+Bahrain,BHR,26,50.55,1967,20.38704811,Absolute Scarcity
+Bahrain,BHR,26,50.55,1972,17.42251337,Absolute Scarcity
+Bahrain,BHR,26,50.55,1977,13.19104592,Absolute Scarcity
+Bahrain,BHR,26,50.55,1982,10.36403679,Absolute Scarcity
+Bahrain,BHR,26,50.55,1987,8.908566923,Absolute Scarcity
+Bahrain,BHR,26,50.55,1992,7.651826587,Absolute Scarcity
+Bahrain,BHR,26,50.55,1997,6.695681286,Absolute Scarcity
+Bahrain,BHR,26,50.55,2002,5.460445217,Absolute Scarcity
+Bahrain,BHR,26,50.55,2007,3.874643654,Absolute Scarcity
+Bahrain,BHR,26,50.55,2012,3.035299778,Absolute Scarcity
+Bahrain,BHR,26,50.55,2013,3.002617532,Absolute Scarcity
+Bangladesh,BGD,24,90,1962,2003.692787,No Stress
+Bangladesh,BGD,24,90,1967,1722.254819,No Stress
+Bangladesh,BGD,24,90,1972,1527.715598,Stress
+Bangladesh,BGD,24,90,1977,1383.762306,Stress
+Bangladesh,BGD,24,90,1982,1206.05672,Stress
+Bangladesh,BGD,24,90,1987,1055.520509,Stress
+Bangladesh,BGD,24,90,1992,933.9063949,Scarcity
+Bangladesh,BGD,24,90,1997,840.367644,Scarcity
+Bangladesh,BGD,24,90,2002,766.3882325,Scarcity
+Bangladesh,BGD,24,90,2007,716.9336526,Scarcity
+Bangladesh,BGD,24,90,2012,678.7533548,Scarcity
+Bangladesh,BGD,24,90,2013,670.5196557,Scarcity
+Barbados,BRB,13.1667,-59.5333,1962,344.0653036,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,1967,338.315022,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,1972,331.4454751,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,1977,323.7084035,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,1982,319.0047053,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,1987,311.8908382,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,1992,306.5568682,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,1997,302.3363038,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,2002,296.8195782,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,2007,289.5644589,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,2012,282.4649302,Absolute Scarcity
+Barbados,BRB,13.1667,-59.5333,2013,281.0528239,Absolute Scarcity
+Belarus,BLR,53,28,1962,,-
+Belarus,BLR,53,28,1967,,-
+Belarus,BLR,53,28,1972,,-
+Belarus,BLR,53,28,1977,,-
+Belarus,BLR,53,28,1982,,-
+Belarus,BLR,53,28,1987,,-
+Belarus,BLR,53,28,1992,3641.346907,No Stress
+Belarus,BLR,53,28,1997,3676.979342,No Stress
+Belarus,BLR,53,28,2002,3770.907248,No Stress
+Belarus,BLR,53,28,2007,3891.213389,No Stress
+Belarus,BLR,53,28,2012,3930.6847,No Stress
+Belarus,BLR,53,28,2013,3929.854215,No Stress
+Belgium,BEL,50.8333,4,1962,1301.436851,Stress
+Belgium,BEL,50.8333,4,1967,1252.480041,Stress
+Belgium,BEL,50.8333,4,1972,1235.697446,Stress
+Belgium,BEL,50.8333,4,1977,1220.70834,Stress
+Belgium,BEL,50.8333,4,1982,1217.495038,Stress
+Belgium,BEL,50.8333,4,1987,1215.776647,Stress
+Belgium,BEL,50.8333,4,1992,1194.605401,Stress
+Belgium,BEL,50.8333,4,1997,1178.63778,Stress
+Belgium,BEL,50.8333,4,2002,1161.351949,Stress
+Belgium,BEL,50.8333,4,2007,1129.337361,Stress
+Belgium,BEL,50.8333,4,2012,1078.337053,Stress
+Belgium,BEL,50.8333,4,2013,1073.074879,Stress
+Belize,BLZ,17.25,-88.75,1962,164289.6015,No Stress
+Belize,BLZ,17.25,-88.75,1967,141971.0911,No Stress
+Belize,BLZ,17.25,-88.75,1972,125837.6066,No Stress
+Belize,BLZ,17.25,-88.75,1977,116795.9939,No Stress
+Belize,BLZ,17.25,-88.75,1982,105611.9553,No Stress
+Belize,BLZ,17.25,-88.75,1987,91822.09469,No Stress
+Belize,BLZ,17.25,-88.75,1992,78298.97277,No Stress
+Belize,BLZ,17.25,-88.75,1997,69844.93144,No Stress
+Belize,BLZ,17.25,-88.75,2002,60611.83798,No Stress
+Belize,BLZ,17.25,-88.75,2007,53320.10231,No Stress
+Belize,BLZ,17.25,-88.75,2012,47090.04505,No Stress
+Belize,BLZ,17.25,-88.75,2013,45977.70413,No Stress
+Benin,BEN,9.5,2.25,1962,4114.680541,No Stress
+Benin,BEN,9.5,2.25,1967,3768.131848,No Stress
+Benin,BEN,9.5,2.25,1972,3388.938242,No Stress
+Benin,BEN,9.5,2.25,1977,3000.936409,No Stress
+Benin,BEN,9.5,2.25,1982,2619.96182,No Stress
+Benin,BEN,9.5,2.25,1987,2265.660332,No Stress
+Benin,BEN,9.5,2.25,1992,1915.129636,No Stress
+Benin,BEN,9.5,2.25,1997,1619.165639,Stress
+Benin,BEN,9.5,2.25,2002,1389.124156,Stress
+Benin,BEN,9.5,2.25,2007,1182.889673,Stress
+Benin,BEN,9.5,2.25,2012,1024.804039,Stress
+Benin,BEN,9.5,2.25,2013,997.726153,Scarcity
+Bermuda,BMU,32.3333,-64.75,1962,,-
+Bermuda,BMU,32.3333,-64.75,1967,,-
+Bermuda,BMU,32.3333,-64.75,1972,,-
+Bermuda,BMU,32.3333,-64.75,1977,,-
+Bermuda,BMU,32.3333,-64.75,1982,,-
+Bermuda,BMU,32.3333,-64.75,1987,,-
+Bermuda,BMU,32.3333,-64.75,1992,,-
+Bermuda,BMU,32.3333,-64.75,1997,,-
+Bermuda,BMU,32.3333,-64.75,2002,,-
+Bermuda,BMU,32.3333,-64.75,2007,,-
+Bermuda,BMU,32.3333,-64.75,2012,,-
+Bermuda,BMU,32.3333,-64.75,2013,,-
+Bhutan,BTN,27.5,90.5,1962,404672.0453,No Stress
+Bhutan,BTN,27.5,90.5,1967,356642.7528,No Stress
+Bhutan,BTN,27.5,90.5,1972,303686.11,No Stress
+Bhutan,BTN,27.5,90.5,1977,253365.0884,No Stress
+Bhutan,BTN,27.5,90.5,1982,218595.8324,No Stress
+Bhutan,BTN,27.5,90.5,1987,189548.1173,No Stress
+Bhutan,BTN,27.5,90.5,1992,179820.7093,No Stress
+Bhutan,BTN,27.5,90.5,1997,155426.6942,No Stress
+Bhutan,BTN,27.5,90.5,2002,135348.5224,No Stress
+Bhutan,BTN,27.5,90.5,2007,114813.0975,No Stress
+Bhutan,BTN,27.5,90.5,2012,105146.5176,No Stress
+Bhutan,BTN,27.5,90.5,2013,103455.5479,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,1962,86580.03718,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,1967,77266.55127,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,1972,68522.62511,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,1977,60676.08149,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,1982,53923.46989,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,1987,47937.05604,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,1992,42606.69291,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,1997,38039.63166,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,2002,34319.57346,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,2007,31364.78893,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,2012,28914.9923,No Stress
+"Bolivia, Plurinational State of",BOL,-17,-65,2013,28441.03756,No Stress
+Bosnia and Herzegovina,BIH,44,18,1962,,-
+Bosnia and Herzegovina,BIH,44,18,1967,,-
+Bosnia and Herzegovina,BIH,44,18,1972,,-
+Bosnia and Herzegovina,BIH,44,18,1977,,-
+Bosnia and Herzegovina,BIH,44,18,1982,,-
+Bosnia and Herzegovina,BIH,44,18,1987,,-
+Bosnia and Herzegovina,BIH,44,18,1992,8568.529409,No Stress
+Bosnia and Herzegovina,BIH,44,18,1997,10039.59844,No Stress
+Bosnia and Herzegovina,BIH,44,18,2002,9108.218204,No Stress
+Bosnia and Herzegovina,BIH,44,18,2007,9176.29208,No Stress
+Bosnia and Herzegovina,BIH,44,18,2012,9259.462127,No Stress
+Bosnia and Herzegovina,BIH,44,18,2013,9270.606927,No Stress
+Botswana,BWA,-22,24,1962,4362.430746,No Stress
+Botswana,BWA,-22,24,1967,3801.089012,No Stress
+Botswana,BWA,-22,24,1972,3242.72616,No Stress
+Botswana,BWA,-22,24,1977,2700.342944,No Stress
+Botswana,BWA,-22,24,1982,2240.36503,No Stress
+Botswana,BWA,-22,24,1987,1899.832894,No Stress
+Botswana,BWA,-22,24,1992,1638.144746,Stress
+Botswana,BWA,-22,24,1997,1448.095724,Stress
+Botswana,BWA,-22,24,2002,1326.717436,Stress
+Botswana,BWA,-22,24,2007,1253.141338,Stress
+Botswana,BWA,-22,24,2012,1197.658577,Stress
+Botswana,BWA,-22,24,2013,1187.446318,Stress
+Brazil,BRA,-10,-55,1962,70102.68232,No Stress
+Brazil,BRA,-10,-55,1967,60840.61381,No Stress
+Brazil,BRA,-10,-55,1972,53743.24371,No Stress
+Brazil,BRA,-10,-55,1977,47754.48673,No Stress
+Brazil,BRA,-10,-55,1982,42485.64718,No Stress
+Brazil,BRA,-10,-55,1987,38217.47004,No Stress
+Brazil,BRA,-10,-55,1992,36617.55359,No Stress
+Brazil,BRA,-10,-55,1997,33913.34133,No Stress
+Brazil,BRA,-10,-55,2002,31556.28015,No Stress
+Brazil,BRA,-10,-55,2007,29795.21106,No Stress
+Brazil,BRA,-10,-55,2012,28496.49373,No Stress
+Brazil,BRA,-10,-55,2013,28253.87109,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,1962,94871.36559,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,1967,75441.55498,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,1972,59932.17088,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,1977,48901.72479,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,1982,41452.6976,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,1987,36019.69642,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,1992,31257.46962,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,1997,27427.84862,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,2002,24537.61038,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,2007,22283.97651,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,2012,20619.15689,No Stress
+Brunei Darussalam,BRN,4.5,114.6667,2013,20345.44166,No Stress
+Bulgaria,BGR,43,25,1962,2620.758957,No Stress
+Bulgaria,BGR,43,25,1967,2527.007087,No Stress
+Bulgaria,BGR,43,25,1972,2448.636925,No Stress
+Bulgaria,BGR,43,25,1977,2385.229839,No Stress
+Bulgaria,BGR,43,25,1982,2354.931456,No Stress
+Bulgaria,BGR,43,25,1987,2340.782483,No Stress
+Bulgaria,BGR,43,25,1992,2458.969172,No Stress
+Bulgaria,BGR,43,25,1997,2526.447089,No Stress
+Bulgaria,BGR,43,25,2002,2668.880397,No Stress
+Bulgaria,BGR,43,25,2007,2783.175518,No Stress
+Bulgaria,BGR,43,25,2012,2874.393914,No Stress
+Bulgaria,BGR,43,25,2013,2890.525477,No Stress
+Burkina Faso,BFA,13,-2,1962,2519.99617,No Stress
+Burkina Faso,BFA,13,-2,1967,2339.500882,No Stress
+Burkina Faso,BFA,13,-2,1972,2145.859752,No Stress
+Burkina Faso,BFA,13,-2,1977,1953.449456,No Stress
+Burkina Faso,BFA,13,-2,1982,1746.235396,No Stress
+Burkina Faso,BFA,13,-2,1987,1535.612198,Stress
+Burkina Faso,BFA,13,-2,1992,1344.502962,Stress
+Burkina Faso,BFA,13,-2,1997,1172.060112,Stress
+Burkina Faso,BFA,13,-2,2002,1016.557774,Stress
+Burkina Faso,BFA,13,-2,2007,878.11269,Scarcity
+Burkina Faso,BFA,13,-2,2012,759.4102626,Scarcity
+Burkina Faso,BFA,13,-2,2013,738.1233444,Scarcity
+Burundi,BDI,-3.5,30,1962,3475.545084,No Stress
+Burundi,BDI,-3.5,30,1967,3109.617094,No Stress
+Burundi,BDI,-3.5,30,1972,2835.931763,No Stress
+Burundi,BDI,-3.5,30,1977,2629.772475,No Stress
+Burundi,BDI,-3.5,30,1982,2307.668133,No Stress
+Burundi,BDI,-3.5,30,1987,1969.958331,No Stress
+Burundi,BDI,-3.5,30,1992,1710.105209,No Stress
+Burundi,BDI,-3.5,30,1997,1579.383736,Stress
+Burundi,BDI,-3.5,30,2002,1429.438795,Stress
+Burundi,BDI,-3.5,30,2007,1207.927849,Stress
+Burundi,BDI,-3.5,30,2012,1021.364488,Stress
+Burundi,BDI,-3.5,30,2013,989.9107821,Scarcity
+Cambodia,KHM,13,105,1962,20018.9865,No Stress
+Cambodia,KHM,13,105,1967,18017.83228,No Stress
+Cambodia,KHM,13,105,1972,16442.98212,No Stress
+Cambodia,KHM,13,105,1977,16716.88663,No Stress
+Cambodia,KHM,13,105,1982,17369.77029,No Stress
+Cambodia,KHM,13,105,1987,14580.99233,No Stress
+Cambodia,KHM,13,105,1992,12405.14207,No Stress
+Cambodia,KHM,13,105,1997,10582.69959,No Stress
+Cambodia,KHM,13,105,2002,9489.087392,No Stress
+Cambodia,KHM,13,105,2007,8772.639374,No Stress
+Cambodia,KHM,13,105,2012,8113.210365,No Stress
+Cambodia,KHM,13,105,2013,7968.196457,No Stress
+Cameroon,CMR,6,12,1962,48804.31223,No Stress
+Cameroon,CMR,6,12,1967,43466.195,No Stress
+Cameroon,CMR,6,12,1972,38265.44557,No Stress
+Cameroon,CMR,6,12,1977,33342.12686,No Stress
+Cameroon,CMR,6,12,1982,28795.53043,No Stress
+Cameroon,CMR,6,12,1987,24747.28086,No Stress
+Cameroon,CMR,6,12,1992,21333.40668,No Stress
+Cameroon,CMR,6,12,1997,18559.52775,No Stress
+Cameroon,CMR,6,12,2002,16267.38674,No Stress
+Cameroon,CMR,6,12,2007,14294.93306,No Stress
+Cameroon,CMR,6,12,2012,12580.85909,No Stress
+Cameroon,CMR,6,12,2013,12267.48014,No Stress
+Canada,CAN,60,-95,1962,153110.5619,No Stress
+Canada,CAN,60,-95,1967,139623.7507,No Stress
+Canada,CAN,60,-95,1972,129582.9688,No Stress
+Canada,CAN,60,-95,1977,119768.0282,No Stress
+Canada,CAN,60,-95,1982,113086.263,No Stress
+Canada,CAN,60,-95,1987,107344.6328,No Stress
+Canada,CAN,60,-95,1992,99931.28585,No Stress
+Canada,CAN,60,-95,1997,95040.55063,No Stress
+Canada,CAN,60,-95,2002,90874.30649,No Stress
+Canada,CAN,60,-95,2007,86657.93722,No Stress
+Canada,CAN,60,-95,2012,82009.36645,No Stress
+Canada,CAN,60,-95,2013,81071.21184,No Stress
+Cape Verde,CPV,16,-24,1962,1346.95252,Stress
+Cape Verde,CPV,16,-24,1967,1179.379725,Stress
+Cape Verde,CPV,16,-24,1972,1023.129549,Stress
+Cape Verde,CPV,16,-24,1977,968.9640805,Scarcity
+Cape Verde,CPV,16,-24,1982,967.4548199,Scarcity
+Cape Verde,CPV,16,-24,1987,884.997522,Scarcity
+Cape Verde,CPV,16,-24,1992,813.2880422,Scarcity
+Cape Verde,CPV,16,-24,1997,718.4561814,Scarcity
+Cape Verde,CPV,16,-24,2002,653.3954785,Scarcity
+Cape Verde,CPV,16,-24,2007,620.2024754,Scarcity
+Cape Verde,CPV,16,-24,2012,606.7948892,Scarcity
+Cape Verde,CPV,16,-24,2013,601.3265263,Scarcity
+Cayman Islands,CYM,19.5,-80.5,1962,,-
+Cayman Islands,CYM,19.5,-80.5,1967,,-
+Cayman Islands,CYM,19.5,-80.5,1972,,-
+Cayman Islands,CYM,19.5,-80.5,1977,,-
+Cayman Islands,CYM,19.5,-80.5,1982,,-
+Cayman Islands,CYM,19.5,-80.5,1987,,-
+Cayman Islands,CYM,19.5,-80.5,1992,,-
+Cayman Islands,CYM,19.5,-80.5,1997,,-
+Cayman Islands,CYM,19.5,-80.5,2002,,-
+Cayman Islands,CYM,19.5,-80.5,2007,,-
+Cayman Islands,CYM,19.5,-80.5,2012,,-
+Cayman Islands,CYM,19.5,-80.5,2013,,-
+Central African Republic,CAF,7,21,1962,90578.77913,No Stress
+Central African Republic,CAF,7,21,1967,82045.52887,No Stress
+Central African Republic,CAF,7,21,1972,74184.56172,No Stress
+Central African Republic,CAF,7,21,1977,66870.94713,No Stress
+Central African Republic,CAF,7,21,1982,58479.09559,No Stress
+Central African Republic,CAF,7,21,1987,51446.56052,No Stress
+Central African Republic,CAF,7,21,1992,46217.55225,No Stress
+Central African Republic,CAF,7,21,1997,41171.09275,No Stress
+Central African Republic,CAF,7,21,2002,37427.85184,No Stress
+Central African Republic,CAF,7,21,2007,34332.48996,No Stress
+Central African Republic,CAF,7,21,2012,31158.78184,No Stress
+Central African Republic,CAF,7,21,2013,30543.168,No Stress
+Chad,TCD,15,19,1962,4804.063084,No Stress
+Chad,TCD,15,19,1967,4365.252936,No Stress
+Chad,TCD,15,19,1972,3930.513757,No Stress
+Chad,TCD,15,19,1977,3525.461589,No Stress
+Chad,TCD,15,19,1982,3180.671694,No Stress
+Chad,TCD,15,19,1987,2774.14211,No Stress
+Chad,TCD,15,19,1992,2366.328471,No Stress
+Chad,TCD,15,19,1997,2009.822135,No Stress
+Chad,TCD,15,19,2002,1674.113869,Stress
+Chad,TCD,15,19,2007,1402.607691,Stress
+Chad,TCD,15,19,2012,1204.995913,Stress
+Chad,TCD,15,19,2013,1169.562008,Stress
+Chile,CHL,-30,-71,1962,109845.1854,No Stress
+Chile,CHL,-30,-71,1967,97828.34357,No Stress
+Chile,CHL,-30,-71,1972,89027.10694,No Stress
+Chile,CHL,-30,-71,1977,82387.69993,No Stress
+Chile,CHL,-30,-71,1982,76581.46574,No Stress
+Chile,CHL,-30,-71,1987,70487.12183,No Stress
+Chile,CHL,-30,-71,1992,64567.9764,No Stress
+Chile,CHL,-30,-71,1997,59505.96734,No Stress
+Chile,CHL,-30,-71,2002,55943.53609,No Stress
+Chile,CHL,-30,-71,2007,53092.91103,No Stress
+Chile,CHL,-30,-71,2012,50673.31378,No Stress
+Chile,CHL,-30,-71,2013,50227.84714,No Stress
+China,CHN,35,105,1962,4225.182871,No Stress
+China,CHN,35,105,1967,3728.049831,No Stress
+China,CHN,35,105,1972,3263.227498,No Stress
+China,CHN,35,105,1977,2981.594247,No Stress
+China,CHN,35,105,1982,2788.931521,No Stress
+China,CHN,35,105,1987,2594.934665,No Stress
+China,CHN,35,105,1992,2414.654455,No Stress
+China,CHN,35,105,1997,2286.852428,No Stress
+China,CHN,35,105,2002,2196.969697,No Stress
+China,CHN,35,105,2007,2134.480626,No Stress
+China,CHN,35,105,2012,2082.631534,No Stress
+China,CHN,35,105,2013,2072.374722,No Stress
+Colombia,COL,4,-72,1962,124335.4427,No Stress
+Colombia,COL,4,-72,1967,107372.5162,No Stress
+Colombia,COL,4,-72,1972,94267.66455,No Stress
+Colombia,COL,4,-72,1977,84027.4617,No Stress
+Colombia,COL,4,-72,1982,74964.0806,No Stress
+Colombia,COL,4,-72,1987,67341.61544,No Stress
+Colombia,COL,4,-72,1992,65591.4466,No Stress
+Colombia,COL,4,-72,1997,59892.31309,No Stress
+Colombia,COL,4,-72,2002,55075.29253,No Stress
+Colombia,COL,4,-72,2007,51013.0816,No Stress
+Colombia,COL,4,-72,2012,47584.68224,No Stress
+Colombia,COL,4,-72,2013,46977.11087,No Stress
+Comoros,COM,-12.1667,44.25,1962,6089.114186,No Stress
+Comoros,COM,-12.1667,44.25,1967,5528.578142,No Stress
+Comoros,COM,-12.1667,44.25,1972,4963.415492,No Stress
+Comoros,COM,-12.1667,44.25,1977,4281.921726,No Stress
+Comoros,COM,-12.1667,44.25,1982,3592.835885,No Stress
+Comoros,COM,-12.1667,44.25,1987,3135.033741,No Stress
+Comoros,COM,-12.1667,44.25,1992,2769.533287,No Stress
+Comoros,COM,-12.1667,44.25,1997,2450.845235,No Stress
+Comoros,COM,-12.1667,44.25,2002,2158.164697,No Stress
+Comoros,COM,-12.1667,44.25,2007,1896.525565,No Stress
+Comoros,COM,-12.1667,44.25,2012,1672.466875,Stress
+Comoros,COM,-12.1667,44.25,2013,1632.83745,Stress
+"Congo, the Democratic Republic of the",COD,0,25,1962,56105.36388,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,1967,48971.09285,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,1972,42610.67662,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,1977,37131.7597,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,1982,32411.67144,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,1987,28354.52545,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,1992,23853.05248,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,1997,20418.16539,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,2002,18175.59075,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,2007,15737.58328,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,2012,13697.56831,No Stress
+"Congo, the Democratic Republic of the",COD,0,25,2013,13330.63225,No Stress
+Congo,COG,-1,15,1962,207945.1924,No Stress
+Congo,COG,-1,15,1967,181344.8436,No Stress
+Congo,COG,-1,15,1972,156497.1704,No Stress
+Congo,COG,-1,15,1977,134764.3445,No Stress
+Congo,COG,-1,15,1982,116510.2962,No Stress
+Congo,COG,-1,15,1987,100999.7611,No Stress
+Congo,COG,-1,15,1992,88382.16448,No Stress
+Congo,COG,-1,15,1997,77127.97651,No Stress
+Congo,COG,-1,15,2002,67606.27203,No Stress
+Congo,COG,-1,15,2007,59060.49124,No Stress
+Congo,COG,-1,15,2012,51186.85485,No Stress
+Congo,COG,-1,15,2013,49914.20153,No Stress
+Costa Rica,CRI,10,-84,1962,78541.64105,No Stress
+Costa Rica,CRI,10,-84,1967,66855.37647,No Stress
+Costa Rica,CRI,10,-84,1972,58810.84882,No Stress
+Costa Rica,CRI,10,-84,1977,51987.769,No Stress
+Costa Rica,CRI,10,-84,1982,45261.35007,No Stress
+Costa Rica,CRI,10,-84,1987,39464.33832,No Stress
+Costa Rica,CRI,10,-84,1992,34945.91733,No Stress
+Costa Rica,CRI,10,-84,1997,30891.02848,No Stress
+Costa Rica,CRI,10,-84,2002,27602.4466,No Stress
+Costa Rica,CRI,10,-84,2007,25318.00989,No Stress
+Costa Rica,CRI,10,-84,2012,23515.72588,No Stress
+Costa Rica,CRI,10,-84,2013,23192.97003,No Stress
+Cote d'Ivoire,CIV,8,-5,1962,20542.69172,No Stress
+Cote d'Ivoire,CIV,8,-5,1967,16736.2267,No Stress
+Cote d'Ivoire,CIV,8,-5,1972,13368.98163,No Stress
+Cote d'Ivoire,CIV,8,-5,1977,10617.63724,No Stress
+Cote d'Ivoire,CIV,8,-5,1982,8533.38119,No Stress
+Cote d'Ivoire,CIV,8,-5,1987,7031.016169,No Stress
+Cote d'Ivoire,CIV,8,-5,1992,5933.134867,No Stress
+Cote d'Ivoire,CIV,8,-5,1997,5108.312649,No Stress
+Cote d'Ivoire,CIV,8,-5,2002,4608.099545,No Stress
+Cote d'Ivoire,CIV,8,-5,2007,4281.003892,No Stress
+Cote d'Ivoire,CIV,8,-5,2012,3873.032674,No Stress
+Cote d'Ivoire,CIV,8,-5,2013,3782.224588,No Stress
+Croatia,HRV,45.1667,15.5,1962,,-
+Croatia,HRV,45.1667,15.5,1967,,-
+Croatia,HRV,45.1667,15.5,1972,,-
+Croatia,HRV,45.1667,15.5,1977,,-
+Croatia,HRV,45.1667,15.5,1982,,-
+Croatia,HRV,45.1667,15.5,1987,,-
+Croatia,HRV,45.1667,15.5,1992,8434.004474,No Stress
+Croatia,HRV,45.1667,15.5,1997,8245.844269,No Stress
+Croatia,HRV,45.1667,15.5,2002,8490.990991,No Stress
+Croatia,HRV,45.1667,15.5,2007,8498.64743,No Stress
+Croatia,HRV,45.1667,15.5,2012,8834.092003,No Stress
+Croatia,HRV,45.1667,15.5,2013,8858.707146,No Stress
+Cuba,CUB,21.5,-80,1962,5116.500378,No Stress
+Cuba,CUB,21.5,-80,1967,4613.050164,No Stress
+Cuba,CUB,21.5,-80,1972,4223.661724,No Stress
+Cuba,CUB,21.5,-80,1977,3956.955548,No Stress
+Cuba,CUB,21.5,-80,1982,3838.644415,No Stress
+Cuba,CUB,21.5,-80,1987,3706.03699,No Stress
+Cuba,CUB,21.5,-80,1992,3543.445458,No Stress
+Cuba,CUB,21.5,-80,1997,3457.831912,No Stress
+Cuba,CUB,21.5,-80,2002,3399.890743,No Stress
+Cuba,CUB,21.5,-80,2007,3372.951653,No Stress
+Cuba,CUB,21.5,-80,2012,3382.144036,No Stress
+Cuba,CUB,21.5,-80,2013,3383.743597,No Stress
+Cyprus,CYP,35,33,1962,1350.20279,Stress
+Cyprus,CYP,35,33,1967,1319.118423,Stress
+Cyprus,CYP,35,33,1972,1242.038217,Stress
+Cyprus,CYP,35,33,1977,1172.001779,Stress
+Cyprus,CYP,35,33,1982,1127.638566,Stress
+Cyprus,CYP,35,33,1987,1078.271448,Stress
+Cyprus,CYP,35,33,1992,974.1962881,Scarcity
+Cyprus,CYP,35,33,1997,875.6832856,Scarcity
+Cyprus,CYP,35,33,2002,796.0182758,Scarcity
+Cyprus,CYP,35,33,2007,733.7067713,Scarcity
+Cyprus,CYP,35,33,2012,690.8805538,Scarcity
+Cyprus,CYP,35,33,2013,683.511426,Scarcity
+Czech Republic,CZE,49.75,15.5,1962,,-
+Czech Republic,CZE,49.75,15.5,1967,,-
+Czech Republic,CZE,49.75,15.5,1972,,-
+Czech Republic,CZE,49.75,15.5,1977,,-
+Czech Republic,CZE,49.75,15.5,1982,,-
+Czech Republic,CZE,49.75,15.5,1987,,-
+Czech Republic,CZE,49.75,15.5,1992,,-
+Czech Republic,CZE,49.75,15.5,1997,1276.187191,Stress
+Czech Republic,CZE,49.75,15.5,2002,1289.605602,Stress
+Czech Republic,CZE,49.75,15.5,2007,1276.844317,Stress
+Czech Republic,CZE,49.75,15.5,2012,1251.095898,Stress
+Czech Republic,CZE,49.75,15.5,2013,1250.680979,Stress
+Denmark,DNK,56,10,1962,1290.953621,Stress
+Denmark,DNK,56,10,1967,1240.860545,Stress
+Denmark,DNK,56,10,1972,1202.020356,Stress
+Denmark,DNK,56,10,1977,1179.148179,Stress
+Denmark,DNK,56,10,1982,1172.376466,Stress
+Denmark,DNK,56,10,1987,1170.269536,Stress
+Denmark,DNK,56,10,1992,1160.234135,Stress
+Denmark,DNK,56,10,1997,1135.290486,Stress
+Denmark,DNK,56,10,2002,1116.085753,Stress
+Denmark,DNK,56,10,2007,1098.611758,Stress
+Denmark,DNK,56,10,2012,1073.043502,Stress
+Denmark,DNK,56,10,2013,1068.579281,Stress
+Djibouti,DJI,11.5,43,1962,3184.713376,No Stress
+Djibouti,DJI,11.5,43,1967,2283.087648,No Stress
+Djibouti,DJI,11.5,43,1972,1673.882962,Stress
+Djibouti,DJI,11.5,43,1977,1080.108011,Stress
+Djibouti,DJI,11.5,43,1982,778.8485503,Scarcity
+Djibouti,DJI,11.5,43,1987,616.5798317,Scarcity
+Djibouti,DJI,11.5,43,1992,476.6648712,Absolute Scarcity
+Djibouti,DJI,11.5,43,1997,436.1118016,Absolute Scarcity
+Djibouti,DJI,11.5,43,2002,402.9907285,Absolute Scarcity
+Djibouti,DJI,11.5,43,2007,375.6150697,Absolute Scarcity
+Djibouti,DJI,11.5,43,2012,348.9784238,Absolute Scarcity
+Djibouti,DJI,11.5,43,2013,343.6693809,Absolute Scarcity
+Dominica,DMA,15.4167,-61.3333,1962,,-
+Dominica,DMA,15.4167,-61.3333,1967,,-
+Dominica,DMA,15.4167,-61.3333,1972,,-
+Dominica,DMA,15.4167,-61.3333,1977,,-
+Dominica,DMA,15.4167,-61.3333,1982,,-
+Dominica,DMA,15.4167,-61.3333,1987,,-
+Dominica,DMA,15.4167,-61.3333,1992,,-
+Dominica,DMA,15.4167,-61.3333,1997,,-
+Dominica,DMA,15.4167,-61.3333,2002,,-
+Dominica,DMA,15.4167,-61.3333,2007,,-
+Dominica,DMA,15.4167,-61.3333,2012,,-
+Dominica,DMA,15.4167,-61.3333,2013,,-
+Dominican Republic,DOM,19,-70.6667,1962,5931.668869,No Stress
+Dominican Republic,DOM,19,-70.6667,1967,5064.995958,No Stress
+Dominican Republic,DOM,19,-70.6667,1972,4393.045349,No Stress
+Dominican Republic,DOM,19,-70.6667,1977,3868.438461,No Stress
+Dominican Republic,DOM,19,-70.6667,1982,3442.405684,No Stress
+Dominican Republic,DOM,19,-70.6667,1987,3083.792366,No Stress
+Dominican Republic,DOM,19,-70.6667,1992,2784.990387,No Stress
+Dominican Republic,DOM,19,-70.6667,1997,2543.451847,No Stress
+Dominican Republic,DOM,19,-70.6667,2002,2350.239126,No Stress
+Dominican Republic,DOM,19,-70.6667,2007,2184.083956,No Stress
+Dominican Republic,DOM,19,-70.6667,2012,2043.473239,No Stress
+Dominican Republic,DOM,19,-70.6667,2013,2018.500809,No Stress
+Ecuador,ECU,-2,-77.5,1962,90384.9079,No Stress
+Ecuador,ECU,-2,-77.5,1967,78191.0359,No Stress
+Ecuador,ECU,-2,-77.5,1972,67750.53938,No Stress
+Ecuador,ECU,-2,-77.5,1977,59076.4949,No Stress
+Ecuador,ECU,-2,-77.5,1982,51927.12749,No Stress
+Ecuador,ECU,-2,-77.5,1987,45874.3313,No Stress
+Ecuador,ECU,-2,-77.5,1992,41743.06352,No Stress
+Ecuador,ECU,-2,-77.5,1997,37493.78458,No Stress
+Ecuador,ECU,-2,-77.5,2002,33952.31066,No Stress
+Ecuador,ECU,-2,-77.5,2007,31005.58528,No Stress
+Ecuador,ECU,-2,-77.5,2012,28556.18779,No Stress
+Ecuador,ECU,-2,-77.5,2013,28110.52418,No Stress
+Egypt,EGY,27,30,1962,60.83004831,Absolute Scarcity
+Egypt,EGY,27,30,1967,53.25629711,Absolute Scarcity
+Egypt,EGY,27,30,1972,47.43654367,Absolute Scarcity
+Egypt,EGY,27,30,1977,42.76177595,Absolute Scarcity
+Egypt,EGY,27,30,1982,38.30489355,Absolute Scarcity
+Egypt,EGY,27,30,1987,34.1058627,Absolute Scarcity
+Egypt,EGY,27,30,1992,30.83738297,Absolute Scarcity
+Egypt,EGY,27,30,1997,28.5288305,Absolute Scarcity
+Egypt,EGY,27,30,2002,26.35319483,Absolute Scarcity
+Egypt,EGY,27,30,2007,24.24909413,Absolute Scarcity
+Egypt,EGY,27,30,2012,22.29878855,Absolute Scarcity
+Egypt,EGY,27,30,2013,21.93613762,Absolute Scarcity
+El Salvador,SLV,13.8333,-88.9167,1962,6015.591056,No Stress
+El Salvador,SLV,13.8333,-88.9167,1967,5160.612808,No Stress
+El Salvador,SLV,13.8333,-88.9167,1972,4507.841486,No Stress
+El Salvador,SLV,13.8333,-88.9167,1977,4020.906904,No Stress
+El Salvador,SLV,13.8333,-88.9167,1982,3694.32163,No Stress
+El Salvador,SLV,13.8333,-88.9167,1987,3457.613939,No Stress
+El Salvador,SLV,13.8333,-88.9167,1992,2836.074872,No Stress
+El Salvador,SLV,13.8333,-88.9167,1997,2669.410199,No Stress
+El Salvador,SLV,13.8333,-88.9167,2002,2601.397931,No Stress
+El Salvador,SLV,13.8333,-88.9167,2007,2552.690271,No Stress
+El Salvador,SLV,13.8333,-88.9167,2012,2481.979054,No Stress
+El Salvador,SLV,13.8333,-88.9167,2013,2465.12316,No Stress
+Equatorial Guinea,GNQ,2,10,1962,100798.6353,No Stress
+Equatorial Guinea,GNQ,2,10,1967,92053.64603,No Stress
+Equatorial Guinea,GNQ,2,10,1972,94582.59971,No Stress
+Equatorial Guinea,GNQ,2,10,1977,117946.9964,No Stress
+Equatorial Guinea,GNQ,2,10,1982,103678.1829,No Stress
+Equatorial Guinea,GNQ,2,10,1987,76259.3051,No Stress
+Equatorial Guinea,GNQ,2,10,1992,65060.99468,No Stress
+Equatorial Guinea,GNQ,2,10,1997,55167.96524,No Stress
+Equatorial Guinea,GNQ,2,10,2002,47152.78773,No Stress
+Equatorial Guinea,GNQ,2,10,2007,40649.26253,No Stress
+Equatorial Guinea,GNQ,2,10,2012,35311.88544,No Stress
+Equatorial Guinea,GNQ,2,10,2013,34345.46785,No Stress
+Eritrea,ERI,15,39,1962,,-
+Eritrea,ERI,15,39,1967,,-
+Eritrea,ERI,15,39,1972,,-
+Eritrea,ERI,15,39,1977,,-
+Eritrea,ERI,15,39,1982,,-
+Eritrea,ERI,15,39,1987,,-
+Eritrea,ERI,15,39,1992,,-
+Eritrea,ERI,15,39,1997,786.4388728,Scarcity
+Eritrea,ERI,15,39,2002,653.9648017,Scarcity
+Eritrea,ERI,15,39,2007,537.4439091,Scarcity
+Eritrea,ERI,15,39,2012,456.7012922,Absolute Scarcity
+Eritrea,ERI,15,39,2013,442.1191085,Absolute Scarcity
+Estonia,EST,59,26,1962,,-
+Estonia,EST,59,26,1967,,-
+Estonia,EST,59,26,1972,,-
+Estonia,EST,59,26,1977,,-
+Estonia,EST,59,26,1982,,-
+Estonia,EST,59,26,1987,,-
+Estonia,EST,59,26,1992,8290.440685,No Stress
+Estonia,EST,59,26,1997,9081.587813,No Stress
+Estonia,EST,59,26,2002,9214.485084,No Stress
+Estonia,EST,59,26,2007,9480.263747,No Stress
+Estonia,EST,59,26,2012,9609.161894,No Stress
+Estonia,EST,59,26,2013,9643.42104,No Stress
+Ethiopia,ETH,8,38,1962,,-
+Ethiopia,ETH,8,38,1967,,-
+Ethiopia,ETH,8,38,1972,,-
+Ethiopia,ETH,8,38,1977,,-
+Ethiopia,ETH,8,38,1982,,-
+Ethiopia,ETH,8,38,1987,,-
+Ethiopia,ETH,8,38,1992,,-
+Ethiopia,ETH,8,38,1997,2013.723925,No Stress
+Ethiopia,ETH,8,38,2002,1744.144222,No Stress
+Ethiopia,ETH,8,38,2007,1516.64503,Stress
+Ethiopia,ETH,8,38,2012,1330.006877,Stress
+Ethiopia,ETH,8,38,2013,1296.482677,Stress
+Faroe Islands,FRO,62,-7,1962,,-
+Faroe Islands,FRO,62,-7,1967,,-
+Faroe Islands,FRO,62,-7,1972,,-
+Faroe Islands,FRO,62,-7,1977,,-
+Faroe Islands,FRO,62,-7,1982,,-
+Faroe Islands,FRO,62,-7,1987,,-
+Faroe Islands,FRO,62,-7,1992,,-
+Faroe Islands,FRO,62,-7,1997,,-
+Faroe Islands,FRO,62,-7,2002,,-
+Faroe Islands,FRO,62,-7,2007,,-
+Faroe Islands,FRO,62,-7,2012,,-
+Faroe Islands,FRO,62,-7,2013,,-
+Fiji,FJI,-18,175,1962,67722.07147,No Stress
+Fiji,FJI,-18,175,1967,58514.77011,No Stress
+Fiji,FJI,-18,175,1972,52596.57597,No Stress
+Fiji,FJI,-18,175,1977,47722.04541,No Stress
+Fiji,FJI,-18,175,1982,42725.51364,No Stress
+Fiji,FJI,-18,175,1987,39565.18485,No Stress
+Fiji,FJI,-18,175,1992,38356.12758,No Stress
+Fiji,FJI,-18,175,1997,35998.07338,No Stress
+Fiji,FJI,-18,175,2002,34977.58617,No Stress
+Fiji,FJI,-18,175,2007,34175.57267,No Stress
+Fiji,FJI,-18,175,2012,32638.19503,No Stress
+Fiji,FJI,-18,175,2013,32403.96566,No Stress
+Finland,FIN,64,26,1962,23823.07869,No Stress
+Finland,FIN,64,26,1967,23231.86004,No Stress
+Finland,FIN,64,26,1972,23062.04963,No Stress
+Finland,FIN,64,26,1977,22579.07,No Stress
+Finland,FIN,64,26,1982,22167.28511,No Stress
+Finland,FIN,64,26,1987,21694.51167,No Stress
+Finland,FIN,64,26,1992,21221.77108,No Stress
+Finland,FIN,64,26,1997,20817.7889,No Stress
+Finland,FIN,64,26,2002,20574.557,No Stress
+Finland,FIN,64,26,2007,20231.73849,No Stress
+Finland,FIN,64,26,2012,19763.68178,No Stress
+Finland,FIN,64,26,2013,19672.83523,No Stress
+France,FRA,46,2,1962,4167.521095,No Stress
+France,FRA,46,2,1967,3934.745086,No Stress
+France,FRA,46,2,1972,3789.54346,No Stress
+France,FRA,46,2,1977,3665.289904,No Stress
+France,FRA,46,2,1982,3583.159965,No Stress
+France,FRA,46,2,1987,3479.302664,No Stress
+France,FRA,46,2,1992,3398.516194,No Stress
+France,FRA,46,2,1997,3335.346104,No Stress
+France,FRA,46,2,2002,3236.076872,No Stress
+France,FRA,46,2,2007,3124.386253,No Stress
+France,FRA,46,2,2012,3046.478446,No Stress
+France,FRA,46,2,2013,3033.066522,No Stress
+French Polynesia,PYF,-15,-140,1962,,-
+French Polynesia,PYF,-15,-140,1967,,-
+French Polynesia,PYF,-15,-140,1972,,-
+French Polynesia,PYF,-15,-140,1977,,-
+French Polynesia,PYF,-15,-140,1982,,-
+French Polynesia,PYF,-15,-140,1987,,-
+French Polynesia,PYF,-15,-140,1992,,-
+French Polynesia,PYF,-15,-140,1997,,-
+French Polynesia,PYF,-15,-140,2002,40810.99611,No Stress
+French Polynesia,PYF,-15,-140,2007,38408.21014,No Stress
+French Polynesia,PYF,-15,-140,2012,,-
+French Polynesia,PYF,-15,-140,2013,,-
+Gabon,GAB,-1,11.75,1962,321980.2571,No Stress
+Gabon,GAB,-1,11.75,1967,296511.6489,No Stress
+Gabon,GAB,-1,11.75,1972,267978.2349,No Stress
+Gabon,GAB,-1,11.75,1977,242306.4024,No Stress
+Gabon,GAB,-1,11.75,1982,214761.1633,No Stress
+Gabon,GAB,-1,11.75,1987,188039.3232,No Stress
+Gabon,GAB,-1,11.75,1992,164193.2555,No Stress
+Gabon,GAB,-1,11.75,1997,144186.9789,No Stress
+Gabon,GAB,-1,11.75,2002,127594.8831,No Stress
+Gabon,GAB,-1,11.75,2007,113307.5582,No Stress
+Gabon,GAB,-1,11.75,2012,100454.9876,No Stress
+Gabon,GAB,-1,11.75,2013,98103.08121,No Stress
+Gambia,GMB,13.4667,-16.5667,1962,7822.175869,No Stress
+Gambia,GMB,13.4667,-16.5667,1967,7205.614615,No Stress
+Gambia,GMB,13.4667,-16.5667,1972,6321.938391,No Stress
+Gambia,GMB,13.4667,-16.5667,1977,5436.525843,No Stress
+Gambia,GMB,13.4667,-16.5667,1982,4628.186892,No Stress
+Gambia,GMB,13.4667,-16.5667,1987,3730.721497,No Stress
+Gambia,GMB,13.4667,-16.5667,1992,3062.268161,No Stress
+Gambia,GMB,13.4667,-16.5667,1997,2661.967407,No Stress
+Gambia,GMB,13.4667,-16.5667,2002,2295.917782,No Stress
+Gambia,GMB,13.4667,-16.5667,2007,1961.545855,No Stress
+Gambia,GMB,13.4667,-16.5667,2012,1674.83147,Stress
+Gambia,GMB,13.4667,-16.5667,2013,1622.248599,Stress
+Georgia,GEO,42,43.5,1962,,-
+Georgia,GEO,42,43.5,1967,,-
+Georgia,GEO,42,43.5,1972,,-
+Georgia,GEO,42,43.5,1977,,-
+Georgia,GEO,42,43.5,1982,,-
+Georgia,GEO,42,43.5,1987,,-
+Georgia,GEO,42,43.5,1992,11927.77265,No Stress
+Georgia,GEO,42,43.5,1997,12827.69883,No Stress
+Georgia,GEO,42,43.5,2002,13341.74891,No Stress
+Georgia,GEO,42,43.5,2007,13246.28566,No Stress
+Georgia,GEO,42,43.5,2012,12944.52981,No Stress
+Georgia,GEO,42,43.5,2013,12954.62649,No Stress
+Germany,DEU,51,9,1962,1445.442307,Stress
+Germany,DEU,51,9,1967,1390.489179,Stress
+Germany,DEU,51,9,1972,1359.792921,Stress
+Germany,DEU,51,9,1977,1368.989952,Stress
+Germany,DEU,51,9,1982,1365.956877,Stress
+Germany,DEU,51,9,1987,1374.616007,Stress
+Germany,DEU,51,9,1992,1327.1384,Stress
+Germany,DEU,51,9,1997,1304.324967,Stress
+Germany,DEU,51,9,2002,1297.150591,Stress
+Germany,DEU,51,9,2007,1300.652957,Stress
+Germany,DEU,51,9,2012,1330.418465,Stress
+Germany,DEU,51,9,2013,1326.689586,Stress
+Ghana,GHA,8,-2,1962,4276.219506,No Stress
+Ghana,GHA,8,-2,1967,3760.411406,No Stress
+Ghana,GHA,8,-2,1972,3335.63158,No Stress
+Ghana,GHA,8,-2,1977,2973.444491,No Stress
+Ghana,GHA,8,-2,1982,2637.378018,No Stress
+Ghana,GHA,8,-2,1987,2247.608244,No Stress
+Ghana,GHA,8,-2,1992,1958.415028,No Stress
+Ghana,GHA,8,-2,1997,1724.681519,No Stress
+Ghana,GHA,8,-2,2002,1531.362068,Stress
+Ghana,GHA,8,-2,2007,1345.132677,Stress
+Ghana,GHA,8,-2,2012,1194.490584,Stress
+Ghana,GHA,8,-2,2013,1169.676518,Stress
+Greece,GRC,39,22,1962,6865.340954,No Stress
+Greece,GRC,39,22,1967,6678.882112,No Stress
+Greece,GRC,39,22,1972,6525.191514,No Stress
+Greece,GRC,39,22,1977,6230.878321,No Stress
+Greece,GRC,39,22,1982,5924.707388,No Stress
+Greece,GRC,39,22,1987,5799.654921,No Stress
+Greece,GRC,39,22,1992,5593.129169,No Stress
+Greece,GRC,39,22,1997,5382.079383,No Stress
+Greece,GRC,39,22,2002,5280.541033,No Stress
+Greece,GRC,39,22,2007,5195.734982,No Stress
+Greece,GRC,39,22,2012,5228.63043,No Stress
+Greece,GRC,39,22,2013,5259.554956,No Stress
+Greenland,GRL,72,-40,1962,,-
+Greenland,GRL,72,-40,1967,,-
+Greenland,GRL,72,-40,1972,,-
+Greenland,GRL,72,-40,1977,,-
+Greenland,GRL,72,-40,1982,,-
+Greenland,GRL,72,-40,1987,,-
+Greenland,GRL,72,-40,1992,,-
+Greenland,GRL,72,-40,1997,,-
+Greenland,GRL,72,-40,2002,10652016.46,No Stress
+Greenland,GRL,72,-40,2007,10662187.25,No Stress
+Greenland,GRL,72,-40,2012,,-
+Greenland,GRL,72,-40,2013,,-
+Grenada,GRD,12.1167,-61.6667,1962,,-
+Grenada,GRD,12.1167,-61.6667,1967,,-
+Grenada,GRD,12.1167,-61.6667,1972,,-
+Grenada,GRD,12.1167,-61.6667,1977,,-
+Grenada,GRD,12.1167,-61.6667,1982,,-
+Grenada,GRD,12.1167,-61.6667,1987,,-
+Grenada,GRD,12.1167,-61.6667,1992,,-
+Grenada,GRD,12.1167,-61.6667,1997,,-
+Grenada,GRD,12.1167,-61.6667,2002,,-
+Grenada,GRD,12.1167,-61.6667,2007,,-
+Grenada,GRD,12.1167,-61.6667,2012,,-
+Grenada,GRD,12.1167,-61.6667,2013,,-
+Guam,GUM,13.4667,144.7833,1962,,-
+Guam,GUM,13.4667,144.7833,1967,,-
+Guam,GUM,13.4667,144.7833,1972,,-
+Guam,GUM,13.4667,144.7833,1977,,-
+Guam,GUM,13.4667,144.7833,1982,,-
+Guam,GUM,13.4667,144.7833,1987,,-
+Guam,GUM,13.4667,144.7833,1992,,-
+Guam,GUM,13.4667,144.7833,1997,,-
+Guam,GUM,13.4667,144.7833,2002,,-
+Guam,GUM,13.4667,144.7833,2007,,-
+Guam,GUM,13.4667,144.7833,2012,,-
+Guam,GUM,13.4667,144.7833,2013,,-
+Guatemala,GTM,15.5,-90.25,1962,24993.40261,No Stress
+Guatemala,GTM,15.5,-90.25,1967,21856.6154,No Stress
+Guatemala,GTM,15.5,-90.25,1972,19093.1956,No Stress
+Guatemala,GTM,15.5,-90.25,1977,16774.81713,No Stress
+Guatemala,GTM,15.5,-90.25,1982,14841.53401,No Stress
+Guatemala,GTM,15.5,-90.25,1987,13158.10085,No Stress
+Guatemala,GTM,15.5,-90.25,1992,11725.65196,No Stress
+Guatemala,GTM,15.5,-90.25,1997,10450.12477,No Stress
+Guatemala,GTM,15.5,-90.25,2002,9281.185762,No Stress
+Guatemala,GTM,15.5,-90.25,2007,8199.471825,No Stress
+Guatemala,GTM,15.5,-90.25,2012,7240.020126,No Stress
+Guatemala,GTM,15.5,-90.25,2013,7059.64358,No Stress
+Guinea,GIN,11,-10,1962,61252.2397,No Stress
+Guinea,GIN,11,-10,1967,56247.64494,No Stress
+Guinea,GIN,11,-10,1972,52735.65019,No Stress
+Guinea,GIN,11,-10,1977,51560.20966,No Stress
+Guinea,GIN,11,-10,1982,48356.34432,No Stress
+Guinea,GIN,11,-10,1987,42140.05078,No Stress
+Guinea,GIN,11,-10,1992,33559.82752,No Stress
+Guinea,GIN,11,-10,1997,27240.47481,No Stress
+Guinea,GIN,11,-10,2002,24984.11408,No Stress
+Guinea,GIN,11,-10,2007,22494.35078,No Stress
+Guinea,GIN,11,-10,2012,19735.79706,No Stress
+Guinea,GIN,11,-10,2013,19241.9211,No Stress
+Guinea-Bissau,GNB,12,-15,1962,24707.67729,No Stress
+Guinea-Bissau,GNB,12,-15,1967,24106.58728,No Stress
+Guinea-Bissau,GNB,12,-15,1972,22258.17536,No Stress
+Guinea-Bissau,GNB,12,-15,1977,20082.16114,No Stress
+Guinea-Bissau,GNB,12,-15,1982,18839.08828,No Stress
+Guinea-Bissau,GNB,12,-15,1987,16809.97168,No Stress
+Guinea-Bissau,GNB,12,-15,1992,15027.83437,No Stress
+Guinea-Bissau,GNB,12,-15,1997,13426.51334,No Stress
+Guinea-Bissau,GNB,12,-15,2002,12022.40074,No Stress
+Guinea-Bissau,GNB,12,-15,2007,10779.22332,No Stress
+Guinea-Bissau,GNB,12,-15,2012,9617.939381,No Stress
+Guinea-Bissau,GNB,12,-15,2013,9388.266427,No Stress
+Guyana,GUY,5,-59,1962,407325.0911,No Stress
+Guyana,GUY,5,-59,1967,356608.5784,No Stress
+Guyana,GUY,5,-59,1972,327491.9282,No Stress
+Guyana,GUY,5,-59,1977,316045.264,No Stress
+Guyana,GUY,5,-59,1982,312339.6181,No Stress
+Guyana,GUY,5,-59,1987,326213.9287,No Stress
+Guyana,GUY,5,-59,1992,333329.645,No Stress
+Guyana,GUY,5,-59,1997,328311.4845,No Stress
+Guyana,GUY,5,-59,2002,321064.0676,No Stress
+Guyana,GUY,5,-59,2007,312821.6644,No Stress
+Guyana,GUY,5,-59,2012,303004.0145,No Stress
+Guyana,GUY,5,-59,2013,301395.8002,No Stress
+Haiti,HTI,19,-72.4167,1962,3231.43428,No Stress
+Haiti,HTI,19,-72.4167,1967,2923.688801,No Stress
+Haiti,HTI,19,-72.4167,1972,2665.5794,No Stress
+Haiti,HTI,19,-72.4167,1977,2434.260922,No Stress
+Haiti,HTI,19,-72.4167,1982,2183.299854,No Stress
+Haiti,HTI,19,-72.4167,1987,1948.33775,No Stress
+Haiti,HTI,19,-72.4167,1992,1758.140895,No Stress
+Haiti,HTI,19,-72.4167,1997,1598.99277,Stress
+Haiti,HTI,19,-72.4167,2002,1468.457786,Stress
+Haiti,HTI,19,-72.4167,2007,1367.499591,Stress
+Haiti,HTI,19,-72.4167,2012,1278.778035,Stress
+Haiti,HTI,19,-72.4167,2013,1260.969147,Stress
+Honduras,HND,15,-86.5,1962,44843.69916,No Stress
+Honduras,HND,15,-86.5,1967,38583.62346,No Stress
+Honduras,HND,15,-86.5,1972,33715.71185,No Stress
+Honduras,HND,15,-86.5,1977,29008.29608,No Stress
+Honduras,HND,15,-86.5,1982,24798.91756,No Stress
+Honduras,HND,15,-86.5,1987,21327.47467,No Stress
+Honduras,HND,15,-86.5,1992,17498.9442,No Stress
+Honduras,HND,15,-86.5,1997,15490.23625,No Stress
+Honduras,HND,15,-86.5,2002,13956.70834,No Stress
+Honduras,HND,15,-86.5,2007,12629.492,No Stress
+Honduras,HND,15,-86.5,2012,11424.11282,No Stress
+Honduras,HND,15,-86.5,2013,11195.78823,No Stress
+Hong Kong,HKG,22.25,114.1667,1962,,-
+Hong Kong,HKG,22.25,114.1667,1967,,-
+Hong Kong,HKG,22.25,114.1667,1972,,-
+Hong Kong,HKG,22.25,114.1667,1977,,-
+Hong Kong,HKG,22.25,114.1667,1982,,-
+Hong Kong,HKG,22.25,114.1667,1987,,-
+Hong Kong,HKG,22.25,114.1667,1992,,-
+Hong Kong,HKG,22.25,114.1667,1997,,-
+Hong Kong,HKG,22.25,114.1667,2002,,-
+Hong Kong,HKG,22.25,114.1667,2007,,-
+Hong Kong,HKG,22.25,114.1667,2012,,-
+Hong Kong,HKG,22.25,114.1667,2013,,-
+Hungary,HUN,47,20,1962,596.3186862,Scarcity
+Hungary,HUN,47,20,1967,587.2792955,Scarcity
+Hungary,HUN,47,20,1972,577.0069094,Scarcity
+Hungary,HUN,47,20,1977,563.4844602,Scarcity
+Hungary,HUN,47,20,1982,560.4577445,Scarcity
+Hungary,HUN,47,20,1987,565.358186,Scarcity
+Hungary,HUN,47,20,1992,578.6288637,Scarcity
+Hungary,HUN,47,20,1997,583.0628408,Scarcity
+Hungary,HUN,47,20,2002,590.6321024,Scarcity
+Hungary,HUN,47,20,2007,596.6717649,Scarcity
+Hungary,HUN,47,20,2012,604.8166387,Scarcity
+Hungary,HUN,47,20,2013,606.4343289,Scarcity
+Iceland,ISL,65,-18,1962,932129.9718,No Stress
+Iceland,ISL,65,-18,1967,855341.6083,No Stress
+Iceland,ISL,65,-18,1972,812864.2947,No Stress
+Iceland,ISL,65,-18,1977,766459.7225,No Stress
+Iceland,ISL,65,-18,1982,726930.6423,No Stress
+Iceland,ISL,65,-18,1987,691453.2313,No Stress
+Iceland,ISL,65,-18,1992,651198.7803,No Stress
+Iceland,ISL,65,-18,1997,627010.1207,No Stress
+Iceland,ISL,65,-18,2002,591257.0473,No Stress
+Iceland,ISL,65,-18,2007,545630.7813,No Stress
+Iceland,ISL,65,-18,2012,530063.9818,No Stress
+Iceland,ISL,65,-18,2013,525073.8192,No Stress
+India,IND,20,77,1962,3089.993536,No Stress
+India,IND,20,77,1967,2782.255351,No Stress
+India,IND,20,77,1972,2489.674681,No Stress
+India,IND,20,77,1977,2218.012052,No Stress
+India,IND,20,77,1982,1976.912095,No Stress
+India,IND,20,77,1987,1771.345093,No Stress
+India,IND,20,77,1992,1600.000644,Stress
+India,IND,20,77,1997,1459.927517,Stress
+India,IND,20,77,2002,1342.985339,Stress
+India,IND,20,77,2007,1247.52474,Stress
+India,IND,20,77,2012,1169.253266,Stress
+India,IND,20,77,2013,1154.823316,Stress
+Indonesia,IDN,-5,120,1962,21686.09041,No Stress
+Indonesia,IDN,-5,120,1967,19118.27428,No Stress
+Indonesia,IDN,-5,120,1972,16828.58393,No Stress
+Indonesia,IDN,-5,120,1977,14889.2424,No Stress
+Indonesia,IDN,-5,120,1982,13258.40759,No Stress
+Indonesia,IDN,-5,120,1987,11943.98332,No Stress
+Indonesia,IDN,-5,120,1992,10918.42102,No Stress
+Indonesia,IDN,-5,120,1997,10092.45448,No Stress
+Indonesia,IDN,-5,120,2002,9389.025773,No Stress
+Indonesia,IDN,-5,120,2007,8741.288715,No Stress
+Indonesia,IDN,-5,120,2012,8178.585934,No Stress
+Indonesia,IDN,-5,120,2013,8080.34299,No Stress
+"Iran, Islamic Republic of",IRN,32,53,1962,5555.53514,No Stress
+"Iran, Islamic Republic of",IRN,32,53,1967,4868.551201,No Stress
+"Iran, Islamic Republic of",IRN,32,53,1972,4257.197969,No Stress
+"Iran, Islamic Republic of",IRN,32,53,1977,3672.217259,No Stress
+"Iran, Islamic Republic of",IRN,32,53,1982,3052.226807,No Stress
+"Iran, Islamic Republic of",IRN,32,53,1987,2501.074684,No Stress
+"Iran, Islamic Republic of",IRN,32,53,1992,2203.834751,No Stress
+"Iran, Islamic Republic of",IRN,32,53,1997,2054.601852,No Stress
+"Iran, Islamic Republic of",IRN,32,53,2002,1897.315401,No Stress
+"Iran, Islamic Republic of",IRN,32,53,2007,1789.463829,No Stress
+"Iran, Islamic Republic of",IRN,32,53,2012,1681.399235,Stress
+"Iran, Islamic Republic of",IRN,32,53,2013,1659.195595,Stress
+Iraq,IRQ,33,44,1962,4586.785367,No Stress
+Iraq,IRQ,33,44,1967,3934.104202,No Stress
+Iraq,IRQ,33,44,1972,3320.802963,No Stress
+Iraq,IRQ,33,44,1977,2824.737025,No Stress
+Iraq,IRQ,33,44,1982,2438.363099,No Stress
+Iraq,IRQ,33,44,1987,2159.260291,No Stress
+Iraq,IRQ,33,44,1992,1897.87625,No Stress
+Iraq,IRQ,33,44,1997,1622.598594,Stress
+Iraq,IRQ,33,44,2002,1394.707489,Stress
+Iraq,IRQ,33,44,2007,1224.746987,Stress
+Iraq,IRQ,33,44,2012,1080.47683,Stress
+Iraq,IRQ,33,44,2013,1053.341072,Stress
+Ireland,IRL,53,-8,1962,17277.55152,No Stress
+Ireland,IRL,53,-8,1967,16882.2891,No Stress
+Ireland,IRL,53,-8,1972,16135.14003,No Stress
+Ireland,IRL,53,-8,1977,14929.01103,No Stress
+Ireland,IRL,53,-8,1982,14057.03138,No Stress
+Ireland,IRL,53,-8,1987,13841.58504,No Stress
+Ireland,IRL,53,-8,1992,13770.11772,No Stress
+Ireland,IRL,53,-8,1997,13336.34172,No Stress
+Ireland,IRL,53,-8,2002,12462.01945,No Stress
+Ireland,IRL,53,-8,2007,11139.04207,No Stress
+Ireland,IRL,53,-8,2012,10682.60308,No Stress
+Ireland,IRL,53,-8,2013,10657.83183,No Stress
+Isle of Man,IMN,54.23,-4.55,1962,,-
+Isle of Man,IMN,54.23,-4.55,1967,,-
+Isle of Man,IMN,54.23,-4.55,1972,,-
+Isle of Man,IMN,54.23,-4.55,1977,,-
+Isle of Man,IMN,54.23,-4.55,1982,,-
+Isle of Man,IMN,54.23,-4.55,1987,,-
+Isle of Man,IMN,54.23,-4.55,1992,,-
+Isle of Man,IMN,54.23,-4.55,1997,,-
+Isle of Man,IMN,54.23,-4.55,2002,,-
+Isle of Man,IMN,54.23,-4.55,2007,,-
+Isle of Man,IMN,54.23,-4.55,2012,,-
+Isle of Man,IMN,54.23,-4.55,2013,,-
+Israel,ISR,31.5,34.75,1962,327.0824248,Absolute Scarcity
+Israel,ISR,31.5,34.75,1967,273.2240437,Absolute Scarcity
+Israel,ISR,31.5,34.75,1972,238.2465057,Absolute Scarcity
+Israel,ISR,31.5,34.75,1977,207.5837254,Absolute Scarcity
+Israel,ISR,31.5,34.75,1982,186.0580501,Absolute Scarcity
+Israel,ISR,31.5,34.75,1987,171.6639963,Absolute Scarcity
+Israel,ISR,31.5,34.75,1992,146.3985946,Absolute Scarcity
+Israel,ISR,31.5,34.75,1997,128.5126799,Absolute Scarcity
+Israel,ISR,31.5,34.75,2002,114.1552511,Absolute Scarcity
+Israel,ISR,31.5,34.75,2007,104.4553697,Absolute Scarcity
+Israel,ISR,31.5,34.75,2012,94.81069465,Absolute Scarcity
+Israel,ISR,31.5,34.75,2013,93.057882,Absolute Scarcity
+Italy,ITA,42.8333,12.8333,1962,3586.909843,No Stress
+Italy,ITA,42.8333,12.8333,1967,3449.872875,No Stress
+Italy,ITA,42.8333,12.8333,1972,3355.930237,No Stress
+Italy,ITA,42.8333,12.8333,1977,3261.525503,No Stress
+Italy,ITA,42.8333,12.8333,1982,3227.600787,No Stress
+Italy,ITA,42.8333,12.8333,1987,3224.271624,No Stress
+Italy,ITA,42.8333,12.8333,1992,3213.192958,No Stress
+Italy,ITA,42.8333,12.8333,1997,3207.924181,No Stress
+Italy,ITA,42.8333,12.8333,2002,3198.443324,No Stress
+Italy,ITA,42.8333,12.8333,2007,3122.951365,No Stress
+Italy,ITA,42.8333,12.8333,2012,3065.180844,No Stress
+Italy,ITA,42.8333,12.8333,2013,3029.852866,No Stress
+Jamaica,JAM,18.25,-77.5,1962,5602.73154,No Stress
+Jamaica,JAM,18.25,-77.5,1967,5213.175297,No Stress
+Jamaica,JAM,18.25,-77.5,1972,4884.783722,No Stress
+Jamaica,JAM,18.25,-77.5,1977,4566.380774,No Stress
+Jamaica,JAM,18.25,-77.5,1982,4274.351166,No Stress
+Jamaica,JAM,18.25,-77.5,1987,4000.680677,No Stress
+Jamaica,JAM,18.25,-77.5,1992,3881.068606,No Stress
+Jamaica,JAM,18.25,-77.5,1997,3711.0276,No Stress
+Jamaica,JAM,18.25,-77.5,2002,3595.828014,No Stress
+Jamaica,JAM,18.25,-77.5,2007,3532.043985,No Stress
+Jamaica,JAM,18.25,-77.5,2012,3472.923641,No Stress
+Jamaica,JAM,18.25,-77.5,2013,3464.059462,No Stress
+Japan,JPN,36,138,1962,4487.01895,No Stress
+Japan,JPN,36,138,1967,4269.049392,No Stress
+Japan,JPN,36,138,1972,4011.643094,No Stress
+Japan,JPN,36,138,1977,3776.468212,No Stress
+Japan,JPN,36,138,1982,3630.254371,No Stress
+Japan,JPN,36,138,1987,3521.963126,No Stress
+Japan,JPN,36,138,1992,3461.349604,No Stress
+Japan,JPN,36,138,1997,3411.155271,No Stress
+Japan,JPN,36,138,2002,3374.004473,No Stress
+Japan,JPN,36,138,2007,3359.348755,No Stress
+Japan,JPN,36,138,2012,3370.923336,No Stress
+Japan,JPN,36,138,2013,3376.823124,No Stress
+Jordan,JOR,31,36,1962,723.154736,Scarcity
+Jordan,JOR,31,36,1967,533.4726724,Scarcity
+Jordan,JOR,31,36,1972,417.4935937,Absolute Scarcity
+Jordan,JOR,31,36,1977,350.3490648,Absolute Scarcity
+Jordan,JOR,31,36,1982,289.0130543,Absolute Scarcity
+Jordan,JOR,31,36,1987,239.6345748,Absolute Scarcity
+Jordan,JOR,31,36,1992,182.6948835,Absolute Scarcity
+Jordan,JOR,31,36,1997,153.4653465,Absolute Scarcity
+Jordan,JOR,31,36,2002,135.371179,Absolute Scarcity
+Jordan,JOR,31,36,2007,120.4734146,Absolute Scarcity
+Jordan,JOR,31,36,2012,107.9455524,Absolute Scarcity
+Jordan,JOR,31,36,2013,105.5727554,Absolute Scarcity
+Kazakhstan,KAZ,48,68,1962,,-
+Kazakhstan,KAZ,48,68,1967,,-
+Kazakhstan,KAZ,48,68,1972,,-
+Kazakhstan,KAZ,48,68,1977,,-
+Kazakhstan,KAZ,48,68,1982,,-
+Kazakhstan,KAZ,48,68,1987,,-
+Kazakhstan,KAZ,48,68,1992,3914.449062,No Stress
+Kazakhstan,KAZ,48,68,1997,4196.637955,No Stress
+Kazakhstan,KAZ,48,68,2002,4330.723817,No Stress
+Kazakhstan,KAZ,48,68,2007,4155.851335,No Stress
+Kazakhstan,KAZ,48,68,2012,3832.313219,No Stress
+Kazakhstan,KAZ,48,68,2013,3777.455897,No Stress
+Kenya,KEN,1,38,1962,2398.894979,No Stress
+Kenya,KEN,1,38,1967,2038.507305,No Stress
+Kenya,KEN,1,38,1972,1713.128165,No Stress
+Kenya,KEN,1,38,1977,1424.909147,Stress
+Kenya,KEN,1,38,1982,1178.825962,Stress
+Kenya,KEN,1,38,1987,979.2617899,Scarcity
+Kenya,KEN,1,38,1992,826.7783193,Scarcity
+Kenya,KEN,1,38,1997,715.1828517,Scarcity
+Kenya,KEN,1,38,2002,627.2627671,Scarcity
+Kenya,KEN,1,38,2007,548.3109057,Scarcity
+Kenya,KEN,1,38,2012,479.4092455,Absolute Scarcity
+Kenya,KEN,1,38,2013,466.7029853,Absolute Scarcity
+Kiribati,KIR,1.4167,173,1962,,-
+Kiribati,KIR,1.4167,173,1967,,-
+Kiribati,KIR,1.4167,173,1972,,-
+Kiribati,KIR,1.4167,173,1977,,-
+Kiribati,KIR,1.4167,173,1982,,-
+Kiribati,KIR,1.4167,173,1987,,-
+Kiribati,KIR,1.4167,173,1992,,-
+Kiribati,KIR,1.4167,173,1997,,-
+Kiribati,KIR,1.4167,173,2002,,-
+Kiribati,KIR,1.4167,173,2007,,-
+Kiribati,KIR,1.4167,173,2012,,-
+Kiribati,KIR,1.4167,173,2013,,-
+"Korea, Democratic People's Republic of",PRK,40,127,1962,5643.663627,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,1967,5067.377975,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,1972,4403.659691,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,1977,3997.892216,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,1982,3743.175479,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,1987,3465.297912,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,1992,3215.26589,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,1997,3012.477096,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,2002,2881.961027,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,2007,2778.70067,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,2012,2705.629017,No Stress
+"Korea, Democratic People's Republic of",PRK,40,127,2013,2691.251585,No Stress
+"Korea, Republic of",KOR,37,127.5,1962,2445.967134,No Stress
+"Korea, Republic of",KOR,37,127.5,1967,2152.269642,No Stress
+"Korea, Republic of",KOR,37,127.5,1972,1935.508556,No Stress
+"Korea, Republic of",KOR,37,127.5,1977,1781.016289,No Stress
+"Korea, Republic of",KOR,37,127.5,1982,1649.021501,Stress
+"Korea, Republic of",KOR,37,127.5,1987,1558.081856,Stress
+"Korea, Republic of",KOR,37,127.5,1992,1482.354767,Stress
+"Korea, Republic of",KOR,37,127.5,1997,1411.2067,Stress
+"Korea, Republic of",KOR,37,127.5,2002,1361.760452,Stress
+"Korea, Republic of",KOR,37,127.5,2007,1334.42661,Stress
+"Korea, Republic of",KOR,37,127.5,2012,1296.884811,Stress
+"Korea, Republic of",KOR,37,127.5,2013,1291.326711,Stress
+Kuwait,KWT,29.3375,47.6581,1962,0,Absolute Scarcity
+Kuwait,KWT,29.3375,47.6581,1967,0,Absolute Scarcity
+Kuwait,KWT,29.3375,47.6581,1972,0,Absolute Scarcity
+Kuwait,KWT,29.3375,47.6581,1977,0,Absolute Scarcity
+Kuwait,KWT,29.3375,47.6581,1982,0,Absolute Scarcity
+Kuwait,KWT,29.3375,47.6581,1987,0,Absolute Scarcity
+Kuwait,KWT,29.3375,47.6581,1992,,-
+Kuwait,KWT,29.3375,47.6581,1997,0,Absolute Scarcity
+Kuwait,KWT,29.3375,47.6581,2002,0,Absolute Scarcity
+Kuwait,KWT,29.3375,47.6581,2007,0,Absolute Scarcity
+Kuwait,KWT,29.3375,47.6581,2012,0,Absolute Scarcity
+Kuwait,KWT,29.3375,47.6581,2013,0,Absolute Scarcity
+Kyrgyzstan,KGZ,41,75,1962,,-
+Kyrgyzstan,KGZ,41,75,1967,,-
+Kyrgyzstan,KGZ,41,75,1972,,-
+Kyrgyzstan,KGZ,41,75,1977,,-
+Kyrgyzstan,KGZ,41,75,1982,,-
+Kyrgyzstan,KGZ,41,75,1987,,-
+Kyrgyzstan,KGZ,41,75,1992,10836.24928,No Stress
+Kyrgyzstan,KGZ,41,75,1997,10418.61852,No Stress
+Kyrgyzstan,KGZ,41,75,2002,9804.235879,No Stress
+Kyrgyzstan,KGZ,41,75,2007,9287.4497,No Stress
+Kyrgyzstan,KGZ,41,75,2012,8726.280497,No Stress
+Kyrgyzstan,KGZ,41,75,2013,8554.794042,No Stress
+Lao People's Democratic Republic,LAO,18,105,1962,85778.55527,No Stress
+Lao People's Democratic Republic,LAO,18,105,1967,76328.19681,No Stress
+Lao People's Democratic Republic,LAO,18,105,1972,67114.75636,No Stress
+Lao People's Democratic Republic,LAO,18,105,1977,60830.61262,No Stress
+Lao People's Democratic Republic,LAO,18,105,1982,56111.39763,No Stress
+Lao People's Democratic Republic,LAO,18,105,1987,48929.16065,No Stress
+Lao People's Democratic Republic,LAO,18,105,1992,42331.55255,No Stress
+Lao People's Democratic Republic,LAO,18,105,1997,37357.32992,No Stress
+Lao People's Democratic Republic,LAO,18,105,2002,34335.72367,No Stress
+Lao People's Democratic Republic,LAO,18,105,2007,31663.26253,No Stress
+Lao People's Democratic Republic,LAO,18,105,2012,28649.55708,No Stress
+Lao People's Democratic Republic,LAO,18,105,2013,28125.21096,No Stress
+Latvia,LVA,57,25,1962,,-
+Latvia,LVA,57,25,1967,,-
+Latvia,LVA,57,25,1972,,-
+Latvia,LVA,57,25,1977,,-
+Latvia,LVA,57,25,1982,,-
+Latvia,LVA,57,25,1987,,-
+Latvia,LVA,57,25,1992,6403.150626,No Stress
+Latvia,LVA,57,25,1997,6880.815964,No Stress
+Latvia,LVA,57,25,2002,7246.210565,No Stress
+Latvia,LVA,57,25,2007,7607.967005,No Stress
+Latvia,LVA,57,25,2012,8228.797942,No Stress
+Latvia,LVA,57,25,2013,8317.40489,No Stress
+Lebanon,LBN,33.8333,35.8333,1962,2493.149034,No Stress
+Lebanon,LBN,33.8333,35.8333,1967,2207.048762,No Stress
+Lebanon,LBN,33.8333,35.8333,1972,1986.144162,No Stress
+Lebanon,LBN,33.8333,35.8333,1977,1841.744992,No Stress
+Lebanon,LBN,33.8333,35.8333,1982,1823.513523,No Stress
+Lebanon,LBN,33.8333,35.8333,1987,1796.284834,No Stress
+Lebanon,LBN,33.8333,35.8333,1992,1701.000897,No Stress
+Lebanon,LBN,33.8333,35.8333,1997,1552.032872,Stress
+Lebanon,LBN,33.8333,35.8333,2002,1365.341489,Stress
+Lebanon,LBN,33.8333,35.8333,2007,1159.472662,Stress
+Lebanon,LBN,33.8333,35.8333,2012,1084.773219,Stress
+Lebanon,LBN,33.8333,35.8333,2013,1074.452868,Stress
+Lesotho,LSO,-29.5,28.5,1962,5930.310349,No Stress
+Lesotho,LSO,-29.5,28.5,1967,5386.355116,No Stress
+Lesotho,LSO,-29.5,28.5,1972,4863.844893,No Stress
+Lesotho,LSO,-29.5,28.5,1977,4326.476048,No Stress
+Lesotho,LSO,-29.5,28.5,1982,3806.282768,No Stress
+Lesotho,LSO,-29.5,28.5,1987,3440.237225,No Stress
+Lesotho,LSO,-29.5,28.5,1992,3149.919295,No Stress
+Lesotho,LSO,-29.5,28.5,1997,2902.847844,No Stress
+Lesotho,LSO,-29.5,28.5,2002,2773.819178,No Stress
+Lesotho,LSO,-29.5,28.5,2007,2674.119432,No Stress
+Lesotho,LSO,-29.5,28.5,2012,2549.298212,No Stress
+Lesotho,LSO,-29.5,28.5,2013,2521.131955,No Stress
+Liberia,LBR,6.5,-9.5,1962,170901.1704,No Stress
+Liberia,LBR,6.5,-9.5,1967,152077.4926,No Stress
+Liberia,LBR,6.5,-9.5,1972,133568.7706,No Stress
+Liberia,LBR,6.5,-9.5,1977,115988.2226,No Stress
+Liberia,LBR,6.5,-9.5,1982,98216.14919,No Stress
+Liberia,LBR,6.5,-9.5,1987,91066.22153,No Stress
+Liberia,LBR,6.5,-9.5,1992,98586.66162,No Stress
+Liberia,LBR,6.5,-9.5,1997,84556.22778,No Stress
+Liberia,LBR,6.5,-9.5,2002,65132.30162,No Stress
+Liberia,LBR,6.5,-9.5,2007,56781.17727,No Stress
+Liberia,LBR,6.5,-9.5,2012,47727.74187,No Stress
+Liberia,LBR,6.5,-9.5,2013,46575.78334,No Stress
+Libyan Arab Jamahiriya,LBY,25,17,1962,456.9065339,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,1967,379.0005539,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,1972,311.4876651,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,1977,255.8217726,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,1982,209.4364902,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,1987,176.6879441,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,1992,156.9783374,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,1997,142.1508273,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,2002,131.0765939,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,2007,121.063114,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,2012,113.7356423,Absolute Scarcity
+Libyan Arab Jamahiriya,LBY,25,17,2013,112.8755349,Absolute Scarcity
+Liechtenstein,LIE,47.1667,9.5333,1962,,-
+Liechtenstein,LIE,47.1667,9.5333,1967,,-
+Liechtenstein,LIE,47.1667,9.5333,1972,,-
+Liechtenstein,LIE,47.1667,9.5333,1977,,-
+Liechtenstein,LIE,47.1667,9.5333,1982,,-
+Liechtenstein,LIE,47.1667,9.5333,1987,,-
+Liechtenstein,LIE,47.1667,9.5333,1992,,-
+Liechtenstein,LIE,47.1667,9.5333,1997,,-
+Liechtenstein,LIE,47.1667,9.5333,2002,,-
+Liechtenstein,LIE,47.1667,9.5333,2007,,-
+Liechtenstein,LIE,47.1667,9.5333,2012,,-
+Liechtenstein,LIE,47.1667,9.5333,2013,,-
+Lithuania,LTU,56,24,1962,,-
+Lithuania,LTU,56,24,1967,,-
+Lithuania,LTU,56,24,1972,,-
+Lithuania,LTU,56,24,1977,,-
+Lithuania,LTU,56,24,1982,,-
+Lithuania,LTU,56,24,1987,,-
+Lithuania,LTU,56,24,1992,4205.275837,No Stress
+Lithuania,LTU,56,24,1997,4352.280766,No Stress
+Lithuania,LTU,56,24,2002,4519.226608,No Stress
+Lithuania,LTU,56,24,2007,4815.408316,No Stress
+Lithuania,LTU,56,24,2012,5207.8923,No Stress
+Lithuania,LTU,56,24,2013,5260.864141,No Stress
+Luxembourg,LUX,49.75,6.1667,1962,3117.692907,No Stress
+Luxembourg,LUX,49.75,6.1667,1967,2985.119181,No Stress
+Luxembourg,LUX,49.75,6.1667,1972,2885.170225,No Stress
+Luxembourg,LUX,49.75,6.1667,1977,2767.338761,No Stress
+Luxembourg,LUX,49.75,6.1667,1982,2735.790986,No Stress
+Luxembourg,LUX,49.75,6.1667,1987,2697.235334,No Stress
+Luxembourg,LUX,49.75,6.1667,1992,2549.882068,No Stress
+Luxembourg,LUX,49.75,6.1667,1997,2384.074383,No Stress
+Luxembourg,LUX,49.75,6.1667,2002,2241.273043,No Stress
+Luxembourg,LUX,49.75,6.1667,2007,2083.363716,No Stress
+Luxembourg,LUX,49.75,6.1667,2012,1883.430707,No Stress
+Luxembourg,LUX,49.75,6.1667,2013,1840.400471,No Stress
+Macao,MAC,22.1667,113.55,1962,,-
+Macao,MAC,22.1667,113.55,1967,,-
+Macao,MAC,22.1667,113.55,1972,,-
+Macao,MAC,22.1667,113.55,1977,,-
+Macao,MAC,22.1667,113.55,1982,,-
+Macao,MAC,22.1667,113.55,1987,,-
+Macao,MAC,22.1667,113.55,1992,,-
+Macao,MAC,22.1667,113.55,1997,,-
+Macao,MAC,22.1667,113.55,2002,,-
+Macao,MAC,22.1667,113.55,2007,,-
+Macao,MAC,22.1667,113.55,2012,,-
+Macao,MAC,22.1667,113.55,2013,,-
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,1962,,-
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,1967,,-
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,1972,,-
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,1977,,-
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,1982,,-
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,1987,,-
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,1992,2709.374436,No Stress
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,1997,2711.269391,No Stress
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,2002,2603.11091,No Stress
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,2007,2575.574019,No Stress
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,2012,2564.620116,No Stress
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333,22,2013,2562.693448,No Stress
+Madagascar,MDG,-20,47,1962,62959.18638,No Stress
+Madagascar,MDG,-20,47,1967,55498.19096,No Stress
+Madagascar,MDG,-20,47,1972,48472.58846,No Stress
+Madagascar,MDG,-20,47,1977,41959.31839,No Stress
+Madagascar,MDG,-20,47,1982,36548.22908,No Stress
+Madagascar,MDG,-20,47,1987,31902.33229,No Stress
+Madagascar,MDG,-20,47,1992,27479.02604,No Stress
+Madagascar,MDG,-20,47,1997,23518.34595,No Stress
+Madagascar,MDG,-20,47,2002,20136.19838,No Stress
+Madagascar,MDG,-20,47,2007,17397.1194,No Stress
+Madagascar,MDG,-20,47,2012,15116.23307,No Stress
+Madagascar,MDG,-20,47,2013,14700.20459,No Stress
+Malawi,MWI,-13.5,34,1962,4369.625956,No Stress
+Malawi,MWI,-13.5,34,1967,3863.696265,No Stress
+Malawi,MWI,-13.5,34,1972,3353.964161,No Stress
+Malawi,MWI,-13.5,34,1977,2847.475856,No Stress
+Malawi,MWI,-13.5,34,1982,2460.635548,No Stress
+Malawi,MWI,-13.5,34,1987,1980.358379,No Stress
+Malawi,MWI,-13.5,34,1992,1653.784431,Stress
+Malawi,MWI,-13.5,34,1997,1551.287795,Stress
+Malawi,MWI,-13.5,34,2002,1353.257351,Stress
+Malawi,MWI,-13.5,34,2007,1176.920287,Stress
+Malawi,MWI,-13.5,34,2012,1014.680618,Stress
+Malawi,MWI,-13.5,34,2013,986.3977944,Scarcity
+Malaysia,MYS,2.5,112.5,1962,66584.94322,No Stress
+Malaysia,MYS,2.5,112.5,1967,57358.04872,No Stress
+Malaysia,MYS,2.5,112.5,1972,50610.46694,No Stress
+Malaysia,MYS,2.5,112.5,1977,44990.13514,No Stress
+Malaysia,MYS,2.5,112.5,1982,39880.12584,No Stress
+Malaysia,MYS,2.5,112.5,1987,34723.26159,No Stress
+Malaysia,MYS,2.5,112.5,1992,30200.29251,No Stress
+Malaysia,MYS,2.5,112.5,1997,26598.38525,No Stress
+Malaysia,MYS,2.5,112.5,2002,23757.0603,No Stress
+Malaysia,MYS,2.5,112.5,2007,21630.63755,No Stress
+Malaysia,MYS,2.5,112.5,2012,19835.89084,No Stress
+Malaysia,MYS,2.5,112.5,2013,19517.47091,No Stress
+Maldives,MDV,3.25,73,1962,319.8089674,Absolute Scarcity
+Maldives,MDV,3.25,73,1967,282.8267592,Absolute Scarcity
+Maldives,MDV,3.25,73,1972,246.7247292,Absolute Scarcity
+Maldives,MDV,3.25,73,1977,211.6611164,Absolute Scarcity
+Maldives,MDV,3.25,73,1982,181.7597984,Absolute Scarcity
+Maldives,MDV,3.25,73,1987,152.661656,Absolute Scarcity
+Maldives,MDV,3.25,73,1992,131.6580577,Absolute Scarcity
+Maldives,MDV,3.25,73,1997,117.028871,Absolute Scarcity
+Maldives,MDV,3.25,73,2002,106.1034225,Absolute Scarcity
+Maldives,MDV,3.25,73,2007,97.32707412,Absolute Scarcity
+Maldives,MDV,3.25,73,2012,88.64148067,Absolute Scarcity
+Maldives,MDV,3.25,73,2013,86.95072502,Absolute Scarcity
+Mali,MLI,17,-4,1962,11526.82831,No Stress
+Mali,MLI,17,-4,1967,10911.95182,No Stress
+Mali,MLI,17,-4,1972,10181.37612,No Stress
+Mali,MLI,17,-4,1977,9380.289604,No Stress
+Mali,MLI,17,-4,1982,8565.975716,No Stress
+Mali,MLI,17,-4,1987,7880.230996,No Stress
+Mali,MLI,17,-4,1992,7209.161691,No Stress
+Mali,MLI,17,-4,1997,6340.982531,No Stress
+Mali,MLI,17,-4,2002,5513.356934,No Stress
+Mali,MLI,17,-4,2007,4714.894643,No Stress
+Mali,MLI,17,-4,2012,4039.432401,No Stress
+Mali,MLI,17,-4,2013,3921.145759,No Stress
+Malta,MLT,35.8333,14.5833,1962,155.9123186,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,1967,162.092762,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,1972,166.9697471,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,1977,164.51119,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,1982,154.9564588,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,1987,146.5956428,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,1992,139.788518,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,1997,134.5819697,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,2002,127.5352363,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,2007,124.1628229,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,2012,120.3943212,Absolute Scarcity
+Malta,MLT,35.8333,14.5833,2013,119.2798802,Absolute Scarcity
+Marshall Islands,MHL,9,168,1962,,-
+Marshall Islands,MHL,9,168,1967,,-
+Marshall Islands,MHL,9,168,1972,,-
+Marshall Islands,MHL,9,168,1977,,-
+Marshall Islands,MHL,9,168,1982,,-
+Marshall Islands,MHL,9,168,1987,,-
+Marshall Islands,MHL,9,168,1992,,-
+Marshall Islands,MHL,9,168,1997,,-
+Marshall Islands,MHL,9,168,2002,,-
+Marshall Islands,MHL,9,168,2007,,-
+Marshall Islands,MHL,9,168,2012,,-
+Marshall Islands,MHL,9,168,2013,,-
+Mauritania,MRT,20,-12,1962,439.8939855,Absolute Scarcity
+Mauritania,MRT,20,-12,1967,380.0980653,Absolute Scarcity
+Mauritania,MRT,20,-12,1972,328.4304146,Absolute Scarcity
+Mauritania,MRT,20,-12,1977,284.1678039,Absolute Scarcity
+Mauritania,MRT,20,-12,1982,246.2406744,Absolute Scarcity
+Mauritania,MRT,20,-12,1987,214.39835,Absolute Scarcity
+Mauritania,MRT,20,-12,1992,186.8323371,Absolute Scarcity
+Mauritania,MRT,20,-12,1997,161.5687681,Absolute Scarcity
+Mauritania,MRT,20,-12,2002,139.0128903,Absolute Scarcity
+Mauritania,MRT,20,-12,2007,120.1187855,Absolute Scarcity
+Mauritania,MRT,20,-12,2012,105.3701641,Absolute Scarcity
+Mauritania,MRT,20,-12,2013,102.8309357,Absolute Scarcity
+Mauritius,MUS,-20.2833,57.55,1962,3928.041591,No Stress
+Mauritius,MUS,-20.2833,57.55,1967,3509.300092,No Stress
+Mauritius,MUS,-20.2833,57.55,1972,3228.672395,No Stress
+Mauritius,MUS,-20.2833,57.55,1977,2985.742024,No Stress
+Mauritius,MUS,-20.2833,57.55,1982,2771.729767,No Stress
+Mauritius,MUS,-20.2833,57.55,1987,2655.195245,No Stress
+Mauritius,MUS,-20.2833,57.55,1992,2536.790844,No Stress
+Mauritius,MUS,-20.2833,57.55,1997,2395.748787,No Stress
+Mauritius,MUS,-20.2833,57.55,2002,2283.705829,No Stress
+Mauritius,MUS,-20.2833,57.55,2007,2219.210571,No Stress
+Mauritius,MUS,-20.2833,57.55,2012,2190.492419,No Stress
+Mauritius,MUS,-20.2833,57.55,2013,2185.669919,No Stress
+Mexico,MEX,23,-102,1962,9918.914691,No Stress
+Mexico,MEX,23,-102,1967,8474.138008,No Stress
+Mexico,MEX,23,-102,1972,7252.31273,No Stress
+Mexico,MEX,23,-102,1977,6267.114375,No Stress
+Mexico,MEX,23,-102,1982,5571.012808,No Stress
+Mexico,MEX,23,-102,1987,5049.434145,No Stress
+Mexico,MEX,23,-102,1992,4556.70116,No Stress
+Mexico,MEX,23,-102,1997,4132.625637,No Stress
+Mexico,MEX,23,-102,2002,3832.327304,No Stress
+Mexico,MEX,23,-102,2007,3602.577751,No Stress
+Mexico,MEX,23,-102,2012,3384.431435,No Stress
+Mexico,MEX,23,-102,2013,3343.349786,No Stress
+"Micronesia, Federated States of",FSM,6.9167,158.25,1962,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,1967,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,1972,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,1977,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,1982,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,1987,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,1992,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,1997,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,2002,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,2007,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,2012,,-
+"Micronesia, Federated States of",FSM,6.9167,158.25,2013,,-
+"Moldova, Republic of",MDA,47,29,1962,,-
+"Moldova, Republic of",MDA,47,29,1967,,-
+"Moldova, Republic of",MDA,47,29,1972,,-
+"Moldova, Republic of",MDA,47,29,1977,,-
+"Moldova, Republic of",MDA,47,29,1982,,-
+"Moldova, Republic of",MDA,47,29,1987,,-
+"Moldova, Republic of",MDA,47,29,1992,269.6144513,Absolute Scarcity
+"Moldova, Republic of",MDA,47,29,1997,273.6571098,Absolute Scarcity
+"Moldova, Republic of",MDA,47,29,2002,276.0096294,Absolute Scarcity
+"Moldova, Republic of",MDA,47,29,2007,279.5709146,Absolute Scarcity
+"Moldova, Republic of",MDA,47,29,2012,280.9368344,Absolute Scarcity
+"Moldova, Republic of",MDA,47,29,2013,281.0120706,Absolute Scarcity
+Monaco,MCO,43.7333,7.4,1962,,-
+Monaco,MCO,43.7333,7.4,1967,,-
+Monaco,MCO,43.7333,7.4,1972,,-
+Monaco,MCO,43.7333,7.4,1977,,-
+Monaco,MCO,43.7333,7.4,1982,,-
+Monaco,MCO,43.7333,7.4,1987,,-
+Monaco,MCO,43.7333,7.4,1992,,-
+Monaco,MCO,43.7333,7.4,1997,,-
+Monaco,MCO,43.7333,7.4,2002,,-
+Monaco,MCO,43.7333,7.4,2007,,-
+Monaco,MCO,43.7333,7.4,2012,,-
+Monaco,MCO,43.7333,7.4,2013,,-
+Mongolia,MNG,46,105,1962,34410.40539,No Stress
+Mongolia,MNG,46,105,1967,29662.96732,No Stress
+Mongolia,MNG,46,105,1972,25651.11826,No Stress
+Mongolia,MNG,46,105,1977,22276.12019,No Stress
+Mongolia,MNG,46,105,1982,19575.59216,No Stress
+Mongolia,MNG,46,105,1987,17114.63907,No Stress
+Mongolia,MNG,46,105,1992,15511.30475,No Stress
+Mongolia,MNG,46,105,1997,14899.02698,No Stress
+Mongolia,MNG,46,105,2002,14243.43421,No Stress
+Mongolia,MNG,46,105,2007,13410.05322,No Stress
+Mongolia,MNG,46,105,2012,12444.19779,No Stress
+Mongolia,MNG,46,105,2013,12257.52209,No Stress
+Montenegro,MNE,42,19,1962,,-
+Montenegro,MNE,42,19,1967,,-
+Montenegro,MNE,42,19,1972,,-
+Montenegro,MNE,42,19,1977,,-
+Montenegro,MNE,42,19,1982,,-
+Montenegro,MNE,42,19,1987,,-
+Montenegro,MNE,42,19,1992,,-
+Montenegro,MNE,42,19,1997,,-
+Montenegro,MNE,42,19,2002,,-
+Montenegro,MNE,42,19,2007,,-
+Montenegro,MNE,42,19,2012,,-
+Montenegro,MNE,42,19,2013,,-
+Morocco,MAR,32,-5,1962,2224.042699,No Stress
+Morocco,MAR,32,-5,1967,1956.503289,No Stress
+Morocco,MAR,32,-5,1972,1745.729134,No Stress
+Morocco,MAR,32,-5,1977,1569.356719,Stress
+Morocco,MAR,32,-5,1982,1396.411924,Stress
+Morocco,MAR,32,-5,1987,1246.770542,Stress
+Morocco,MAR,32,-5,1992,1134.156564,Stress
+Morocco,MAR,32,-5,1997,1049.495625,Stress
+Morocco,MAR,32,-5,2002,989.3746957,Scarcity
+Morocco,MAR,32,-5,2007,945.6392433,Scarcity
+Morocco,MAR,32,-5,2012,891.7275755,Scarcity
+Morocco,MAR,32,-5,2013,878.5708984,Scarcity
+Mozambique,MOZ,-18.25,35,1962,12600.69089,No Stress
+Mozambique,MOZ,-18.25,35,1967,11337.19695,No Stress
+Mozambique,MOZ,-18.25,35,1972,10149.02985,No Stress
+Mozambique,MOZ,-18.25,35,1977,8944.847745,No Stress
+Mozambique,MOZ,-18.25,35,1982,7879.48458,No Stress
+Mozambique,MOZ,-18.25,35,1987,7499.279606,No Stress
+Mozambique,MOZ,-18.25,35,1992,6989.323477,No Stress
+Mozambique,MOZ,-18.25,35,1997,5929.778651,No Stress
+Mozambique,MOZ,-18.25,35,2002,5191.539871,No Stress
+Mozambique,MOZ,-18.25,35,2007,4523.84522,No Stress
+Mozambique,MOZ,-18.25,35,2012,3979.622587,No Stress
+Mozambique,MOZ,-18.25,35,2013,3882.517723,No Stress
+Myanmar,MMR,22,98,1962,44683.64823,No Stress
+Myanmar,MMR,22,98,1967,39772.52968,No Stress
+Myanmar,MMR,22,98,1972,35171.63142,No Stress
+Myanmar,MMR,22,98,1977,31216.32108,No Stress
+Myanmar,MMR,22,98,1982,27772.43373,No Stress
+Myanmar,MMR,22,98,1987,25048.42112,No Stress
+Myanmar,MMR,22,98,1992,23098.66495,No Stress
+Myanmar,MMR,22,98,1997,21493.8758,No Stress
+Myanmar,MMR,22,98,2002,20360.80524,No Stress
+Myanmar,MMR,22,98,2007,19732.8456,No Stress
+Myanmar,MMR,22,98,2012,18997.17673,No Stress
+Myanmar,MMR,22,98,2013,18832.49143,No Stress
+Namibia,NAM,-22,17,1962,9736.698184,No Stress
+Namibia,NAM,-22,17,1967,8571.961337,No Stress
+Namibia,NAM,-22,17,1972,7423.42186,No Stress
+Namibia,NAM,-22,17,1977,6486.026614,No Stress
+Namibia,NAM,-22,17,1982,5829.149152,No Stress
+Namibia,NAM,-22,17,1987,4939.118945,No Stress
+Namibia,NAM,-22,17,1992,4069.528153,No Stress
+Namibia,NAM,-22,17,1997,3504.043587,No Stress
+Namibia,NAM,-22,17,2002,3145.580638,No Stress
+Namibia,NAM,-22,17,2007,2960.542125,No Stress
+Namibia,NAM,-22,17,2012,2726.395983,No Stress
+Namibia,NAM,-22,17,2013,2674.406236,No Stress
+Nepal,NPL,28,84,1962,20057.10913,No Stress
+Nepal,NPL,28,84,1967,18243.07582,No Stress
+Nepal,NPL,28,84,1972,16433.2801,No Stress
+Nepal,NPL,28,84,1977,14736.41009,No Stress
+Nepal,NPL,28,84,1982,13158.07119,No Stress
+Nepal,NPL,28,84,1987,11736.35527,No Stress
+Nepal,NPL,28,84,1992,10403.71943,No Stress
+Nepal,NPL,28,84,1997,9155.874138,No Stress
+Nepal,NPL,28,84,2002,8223.089855,No Stress
+Nepal,NPL,28,84,2007,7637.758457,No Stress
+Nepal,NPL,28,84,2012,7213.994334,No Stress
+Nepal,NPL,28,84,2013,7130.148632,No Stress
+Netherlands,NLD,52.5,5.75,1962,931.7541738,Scarcity
+Netherlands,NLD,52.5,5.75,1967,873.1405381,Scarcity
+Netherlands,NLD,52.5,5.75,1972,825.2934124,Scarcity
+Netherlands,NLD,52.5,5.75,1977,793.8693082,Scarcity
+Netherlands,NLD,52.5,5.75,1982,768.5487494,Scarcity
+Netherlands,NLD,52.5,5.75,1987,750.0833445,Scarcity
+Netherlands,NLD,52.5,5.75,1992,724.4388661,Scarcity
+Netherlands,NLD,52.5,5.75,1997,704.6471479,Scarcity
+Netherlands,NLD,52.5,5.75,2002,681.1597227,Scarcity
+Netherlands,NLD,52.5,5.75,2007,671.4811458,Scarcity
+Netherlands,NLD,52.5,5.75,2012,656.5219306,Scarcity
+Netherlands,NLD,52.5,5.75,2013,654.5892179,Scarcity
+New Caledonia,NCL,-21.5,165.5,1962,,-
+New Caledonia,NCL,-21.5,165.5,1967,,-
+New Caledonia,NCL,-21.5,165.5,1972,,-
+New Caledonia,NCL,-21.5,165.5,1977,,-
+New Caledonia,NCL,-21.5,165.5,1982,,-
+New Caledonia,NCL,-21.5,165.5,1987,,-
+New Caledonia,NCL,-21.5,165.5,1992,,-
+New Caledonia,NCL,-21.5,165.5,1997,,-
+New Caledonia,NCL,-21.5,165.5,2002,,-
+New Caledonia,NCL,-21.5,165.5,2007,,-
+New Caledonia,NCL,-21.5,165.5,2012,,-
+New Caledonia,NCL,-21.5,165.5,2013,,-
+New Zealand,NZL,-41,174,1962,131748.5898,No Stress
+New Zealand,NZL,-41,174,1967,120039.6461,No Stress
+New Zealand,NZL,-41,174,1972,112607.1834,No Stress
+New Zealand,NZL,-41,174,1977,104800.9743,No Stress
+New Zealand,NZL,-41,174,1982,103608.8844,No Stress
+New Zealand,NZL,-41,174,1987,99865.62424,No Stress
+New Zealand,NZL,-41,174,1992,92589.97084,No Stress
+New Zealand,NZL,-41,174,1997,86478.19533,No Stress
+New Zealand,NZL,-41,174,2002,82816.25934,No Stress
+New Zealand,NZL,-41,174,2007,77418.43837,No Stress
+New Zealand,NZL,-41,174,2012,74181.6202,No Stress
+New Zealand,NZL,-41,174,2013,73613.8313,No Stress
+Nicaragua,NIC,13,-85,1962,100556.3731,No Stress
+Nicaragua,NIC,13,-85,1967,86592.61484,No Stress
+Nicaragua,NIC,13,-85,1972,74350.60799,No Stress
+Nicaragua,NIC,13,-85,1977,63770.85789,No Stress
+Nicaragua,NIC,13,-85,1982,55193.20969,No Stress
+Nicaragua,NIC,13,-85,1987,48925.48342,No Stress
+Nicaragua,NIC,13,-85,1992,35971.56266,No Stress
+Nicaragua,NIC,13,-85,1997,32211.02054,No Stress
+Nicaragua,NIC,13,-85,2002,29760.44745,No Stress
+Nicaragua,NIC,13,-85,2007,27915.12444,No Stress
+Nicaragua,NIC,13,-85,2012,26069.25242,No Stress
+Nicaragua,NIC,13,-85,2013,25688.76986,No Stress
+Niger,NER,16,8,1962,992.6833564,Scarcity
+Niger,NER,16,8,1967,862.5325236,Scarcity
+Niger,NER,16,8,1972,750.3099316,Scarcity
+Niger,NER,16,8,1977,652.5510551,Scarcity
+Niger,NER,16,8,1982,567.4662212,Scarcity
+Niger,NER,16,8,1987,493.4258756,Absolute Scarcity
+Niger,NER,16,8,1992,423.203754,Absolute Scarcity
+Niger,NER,16,8,1997,355.3436219,Absolute Scarcity
+Niger,NER,16,8,2002,296.1760206,Absolute Scarcity
+Niger,NER,16,8,2007,246.5259389,Absolute Scarcity
+Niger,NER,16,8,2012,203.9978686,Absolute Scarcity
+Niger,NER,16,8,2013,196.2843925,Absolute Scarcity
+Nigeria,NGA,10,8,1962,4690.365918,No Stress
+Nigeria,NGA,10,8,1967,4212.043494,No Stress
+Nigeria,NGA,10,8,1972,3756.630133,No Stress
+Nigeria,NGA,10,8,1977,3277.69464,No Stress
+Nigeria,NGA,10,8,1982,2843.182226,No Stress
+Nigeria,NGA,10,8,1987,2499.634669,No Stress
+Nigeria,NGA,10,8,1992,2196.988511,No Stress
+Nigeria,NGA,10,8,1997,1938.945484,No Stress
+Nigeria,NGA,10,8,2002,1710.200147,No Stress
+Nigeria,NGA,10,8,2007,1501.487699,Stress
+Nigeria,NGA,10,8,2012,1308.979786,Stress
+Nigeria,NGA,10,8,2013,1272.928957,Stress
+Northern Mariana Islands,MNP,15.2,145.75,1962,,-
+Northern Mariana Islands,MNP,15.2,145.75,1967,,-
+Northern Mariana Islands,MNP,15.2,145.75,1972,,-
+Northern Mariana Islands,MNP,15.2,145.75,1977,,-
+Northern Mariana Islands,MNP,15.2,145.75,1982,,-
+Northern Mariana Islands,MNP,15.2,145.75,1987,,-
+Northern Mariana Islands,MNP,15.2,145.75,1992,,-
+Northern Mariana Islands,MNP,15.2,145.75,1997,,-
+Northern Mariana Islands,MNP,15.2,145.75,2002,,-
+Northern Mariana Islands,MNP,15.2,145.75,2007,,-
+Northern Mariana Islands,MNP,15.2,145.75,2012,,-
+Northern Mariana Islands,MNP,15.2,145.75,2013,,-
+Norway,NOR,62,10,1962,104976.2594,No Stress
+Norway,NOR,62,10,1967,100936.9966,No Stress
+Norway,NOR,62,10,1972,97126.77638,No Stress
+Norway,NOR,62,10,1977,94479.50327,No Stress
+Norway,NOR,62,10,1982,92835.91107,No Stress
+Norway,NOR,62,10,1987,91236.8444,No Stress
+Norway,NOR,62,10,1992,89119.05349,No Stress
+Norway,NOR,62,10,1997,86716.54608,No Stress
+Norway,NOR,62,10,2002,84175.10272,No Stress
+Norway,NOR,62,10,2007,81118.62154,No Stress
+Norway,NOR,62,10,2012,76117.25485,No Stress
+Norway,NOR,62,10,2013,75194.39325,No Stress
+Oman,OMN,21,57,1962,2418.693042,No Stress
+Oman,OMN,21,57,1967,2120.836155,No Stress
+Oman,OMN,21,57,1972,1803.243004,No Stress
+Oman,OMN,21,57,1977,1431.803213,Stress
+Oman,OMN,21,57,1982,1085.404259,Stress
+Oman,OMN,21,57,1987,863.0664876,Scarcity
+Oman,OMN,21,57,1992,712.2557853,Scarcity
+Oman,OMN,21,57,1997,642.8733131,Scarcity
+Oman,OMN,21,57,2002,606.4783147,Scarcity
+Oman,OMN,21,57,2007,544.8024099,Scarcity
+Oman,OMN,21,57,2012,422.4500838,Absolute Scarcity
+Oman,OMN,21,57,2013,385.4154393,Absolute Scarcity
+Pakistan,PAK,30,70,1962,1149.080851,Stress
+Pakistan,PAK,30,70,1967,1007.664535,Stress
+Pakistan,PAK,30,70,1972,879.545676,Scarcity
+Pakistan,PAK,30,70,1977,758.5670563,Scarcity
+Pakistan,PAK,30,70,1982,642.5116927,Scarcity
+Pakistan,PAK,30,70,1987,543.0590054,Scarcity
+Pakistan,PAK,30,70,1992,468.9178086,Absolute Scarcity
+Pakistan,PAK,30,70,1997,411.684375,Absolute Scarcity
+Pakistan,PAK,30,70,2002,367.4169713,Absolute Scarcity
+Pakistan,PAK,30,70,2007,335.5124787,Absolute Scarcity
+Pakistan,PAK,30,70,2012,306.9879768,Absolute Scarcity
+Pakistan,PAK,30,70,2013,301.9612206,Absolute Scarcity
+Palau,PLW,7.5,134.5,1962,,-
+Palau,PLW,7.5,134.5,1967,,-
+Palau,PLW,7.5,134.5,1972,,-
+Palau,PLW,7.5,134.5,1977,,-
+Palau,PLW,7.5,134.5,1982,,-
+Palau,PLW,7.5,134.5,1987,,-
+Palau,PLW,7.5,134.5,1992,,-
+Palau,PLW,7.5,134.5,1997,,-
+Palau,PLW,7.5,134.5,2002,,-
+Palau,PLW,7.5,134.5,2007,,-
+Palau,PLW,7.5,134.5,2012,,-
+Palau,PLW,7.5,134.5,2013,,-
+Panama,PAN,9,-80,1962,122210.366,No Stress
+Panama,PAN,9,-80,1967,105353.6674,No Stress
+Panama,PAN,9,-80,1972,91270.19756,No Stress
+Panama,PAN,9,-80,1977,79781.24567,No Stress
+Panama,PAN,9,-80,1982,70650.34263,No Stress
+Panama,PAN,9,-80,1987,63180.2377,No Stress
+Panama,PAN,9,-80,1992,52698.23854,No Stress
+Panama,PAN,9,-80,1997,47541.35332,No Stress
+Panama,PAN,9,-80,2002,42976.92271,No Stress
+Panama,PAN,9,-80,2007,39128.80826,No Stress
+Panama,PAN,9,-80,2012,35925.80348,No Stress
+Panama,PAN,9,-80,2013,35350.4116,No Stress
+Papua New Guinea,PNG,-6,147,1962,393193.6751,No Stress
+Papua New Guinea,PNG,-6,147,1967,354601.1379,No Stress
+Papua New Guinea,PNG,-6,147,1972,310935.9794,No Stress
+Papua New Guinea,PNG,-6,147,1977,269913.2638,No Stress
+Papua New Guinea,PNG,-6,147,1982,235879.7549,No Stress
+Papua New Guinea,PNG,-6,147,1987,207220.4826,No Stress
+Papua New Guinea,PNG,-6,147,1992,183333.4974,No Stress
+Papua New Guinea,PNG,-6,147,1997,161140.3182,No Stress
+Papua New Guinea,PNG,-6,147,2002,141512.759,No Stress
+Papua New Guinea,PNG,-6,147,2007,125202.7511,No Stress
+Papua New Guinea,PNG,-6,147,2012,111762.0877,No Stress
+Papua New Guinea,PNG,-6,147,2013,109407.3672,No Stress
+Paraguay,PRY,-23,-58,1962,46751.6087,No Stress
+Paraguay,PRY,-23,-58,1967,40903.65753,No Stress
+Paraguay,PRY,-23,-58,1972,36030.69048,No Stress
+Paraguay,PRY,-23,-58,1977,31858.44547,No Stress
+Paraguay,PRY,-23,-58,1982,27727.78746,No Stress
+Paraguay,PRY,-23,-58,1987,23981.3782,No Stress
+Paraguay,PRY,-23,-58,1992,26169.02866,No Stress
+Paraguay,PRY,-23,-58,1997,23300.87342,No Stress
+Paraguay,PRY,-23,-58,2002,21000.217,No Stress
+Paraguay,PRY,-23,-58,2007,19101.15203,No Stress
+Paraguay,PRY,-23,-58,2012,17495.69075,No Stress
+Paraguay,PRY,-23,-58,2013,17200.07733,No Stress
+Peru,PER,-10,-76,1962,153655.2989,No Stress
+Peru,PER,-10,-76,1967,133180.6481,No Stress
+Peru,PER,-10,-76,1972,115812.3985,No Stress
+Peru,PER,-10,-76,1977,100900.7578,No Stress
+Peru,PER,-10,-76,1982,88774.12709,No Stress
+Peru,PER,-10,-76,1987,79122.38779,No Stress
+Peru,PER,-10,-76,1992,72451.57224,No Stress
+Peru,PER,-10,-76,1997,66196.43398,No Stress
+Peru,PER,-10,-76,2002,61391.90373,No Stress
+Peru,PER,-10,-76,2007,57927.71285,No Stress
+Peru,PER,-10,-76,2012,54722.25372,No Stress
+Peru,PER,-10,-76,2013,54023.61889,No Stress
+Philippines,PHL,13,122,1962,17058.41003,No Stress
+Philippines,PHL,13,122,1967,14591.98717,No Stress
+Philippines,PHL,13,122,1972,12629.81652,No Stress
+Philippines,PHL,13,122,1977,10973.22972,No Stress
+Philippines,PHL,13,122,1982,9567.006857,No Stress
+Philippines,PHL,13,122,1987,8355.222184,No Stress
+Philippines,PHL,13,122,1992,7369.626802,No Stress
+Philippines,PHL,13,122,1997,6581.39451,No Stress
+Philippines,PHL,13,122,2002,5916.96592,No Stress
+Philippines,PHL,13,122,2007,5389.558892,No Stress
+Philippines,PHL,13,122,2012,4953.117861,No Stress
+Philippines,PHL,13,122,2013,4868.204096,No Stress
+Poland,POL,52,20,1962,1768.480789,No Stress
+Poland,POL,52,20,1967,1675.672625,Stress
+Poland,POL,52,20,1972,1621.507972,Stress
+Poland,POL,52,20,1977,1545.15618,Stress
+Poland,POL,52,20,1982,1479.41729,Stress
+Poland,POL,52,20,1987,1422.956779,Stress
+Poland,POL,52,20,1992,1397.155282,Stress
+Poland,POL,52,20,1997,1386.816857,Stress
+Poland,POL,52,20,2002,1402.026933,Stress
+Poland,POL,52,20,2007,1406.065388,Stress
+Poland,POL,52,20,2012,1390.911788,Stress
+Poland,POL,52,20,2013,1391.68441,Stress
+Portugal,PRT,39.5,-8,1962,4225.045961,No Stress
+Portugal,PRT,39.5,-8,1967,4281.921726,No Stress
+Portugal,PRT,39.5,-8,1972,4403.02511,No Stress
+Portugal,PRT,39.5,-8,1977,4018.750644,No Stress
+Portugal,PRT,39.5,-8,1982,3833.825459,No Stress
+Portugal,PRT,39.5,-8,1987,3788.622388,No Stress
+Portugal,PRT,39.5,-8,1992,3818.138449,No Stress
+Portugal,PRT,39.5,-8,1997,3759.035163,No Stress
+Portugal,PRT,39.5,-8,2002,3646.962162,No Stress
+Portugal,PRT,39.5,-8,2007,3604.299512,No Stress
+Portugal,PRT,39.5,-8,2012,3613.938543,No Stress
+Portugal,PRT,39.5,-8,2013,3633.826912,No Stress
+Puerto Rico,PRI,18.25,-66.5,1962,2897.578359,No Stress
+Puerto Rico,PRI,18.25,-66.5,1967,2683.626176,No Stress
+Puerto Rico,PRI,18.25,-66.5,1972,2520.182759,No Stress
+Puerto Rico,PRI,18.25,-66.5,1977,2298.709161,No Stress
+Puerto Rico,PRI,18.25,-66.5,1982,2166.316344,No Stress
+Puerto Rico,PRI,18.25,-66.5,1987,2062.84411,No Stress
+Puerto Rico,PRI,18.25,-66.5,1992,1980.376975,No Stress
+Puerto Rico,PRI,18.25,-66.5,1997,1888.584174,No Stress
+Puerto Rico,PRI,18.25,-66.5,2002,1856.839748,No Stress
+Puerto Rico,PRI,18.25,-66.5,2007,1876.819821,No Stress
+Puerto Rico,PRI,18.25,-66.5,2012,1944.382446,No Stress
+Puerto Rico,PRI,18.25,-66.5,2013,1963.992005,No Stress
+Qatar,QAT,25.5,51.25,1962,996.5122073,Scarcity
+Qatar,QAT,25.5,51.25,1967,649.8630646,Scarcity
+Qatar,QAT,25.5,51.25,1972,429.4807884,Absolute Scarcity
+Qatar,QAT,25.5,51.25,1977,307.0108112,Absolute Scarcity
+Qatar,QAT,25.5,51.25,1982,201.9874119,Absolute Scarcity
+Qatar,QAT,25.5,51.25,1987,132.2938814,Absolute Scarcity
+Qatar,QAT,25.5,51.25,1992,114.3776833,Absolute Scarcity
+Qatar,QAT,25.5,51.25,1997,105.7619487,Absolute Scarcity
+Qatar,QAT,25.5,51.25,2002,88.92488229,Absolute Scarcity
+Qatar,QAT,25.5,51.25,2007,48.59175034,Absolute Scarcity
+Qatar,QAT,25.5,51.25,2012,27.31022563,Absolute Scarcity
+Qatar,QAT,25.5,51.25,2013,25.82224245,Absolute Scarcity
+Romania,ROU,46,25,1962,2264.87226,No Stress
+Romania,ROU,46,25,1967,2165.428277,No Stress
+Romania,ROU,46,25,1972,2047.63714,No Stress
+Romania,ROU,46,25,1977,1944.282651,No Stress
+Romania,ROU,46,25,1982,1878.715042,No Stress
+Romania,ROU,46,25,1987,1843.183033,No Stress
+Romania,ROU,46,25,1992,1855.728392,No Stress
+Romania,ROU,46,25,1997,1875.500632,No Stress
+Romania,ROU,46,25,2002,1946.573148,No Stress
+Romania,ROU,46,25,2007,2025.572785,No Stress
+Romania,ROU,46,25,2012,2108.880556,No Stress
+Romania,ROU,46,25,2013,2116.973231,No Stress
+Russian Federation,RUS,60,100,1962,,-
+Russian Federation,RUS,60,100,1967,,-
+Russian Federation,RUS,60,100,1972,,-
+Russian Federation,RUS,60,100,1977,,-
+Russian Federation,RUS,60,100,1982,,-
+Russian Federation,RUS,60,100,1987,,-
+Russian Federation,RUS,60,100,1992,29006.85323,No Stress
+Russian Federation,RUS,60,100,1997,29158.56488,No Stress
+Russian Federation,RUS,60,100,2002,29661.35991,No Stress
+Russian Federation,RUS,60,100,2007,30348.68201,No Stress
+Russian Federation,RUS,60,100,2012,30123.34297,No Stress
+Russian Federation,RUS,60,100,2013,30055.77824,No Stress
+Rwanda,RWA,-2,30,1962,3114.145564,No Stress
+Rwanda,RWA,-2,30,1967,2779.148662,No Stress
+Rwanda,RWA,-2,30,1972,2384.742268,No Stress
+Rwanda,RWA,-2,30,1977,2043.847631,No Stress
+Rwanda,RWA,-2,30,1982,1731.892787,No Stress
+Rwanda,RWA,-2,30,1987,1409.31238,Stress
+Rwanda,RWA,-2,30,1992,1451.46751,Stress
+Rwanda,RWA,-2,30,1997,1468.172796,Stress
+Rwanda,RWA,-2,30,2002,1057.020939,Stress
+Rwanda,RWA,-2,30,2007,956.8758226,Scarcity
+Rwanda,RWA,-2,30,2012,829.1294289,Scarcity
+Rwanda,RWA,-2,30,2013,806.689785,Scarcity
+Samoa,WSM,-13.5833,-172.3333,1962,,-
+Samoa,WSM,-13.5833,-172.3333,1967,,-
+Samoa,WSM,-13.5833,-172.3333,1972,,-
+Samoa,WSM,-13.5833,-172.3333,1977,,-
+Samoa,WSM,-13.5833,-172.3333,1982,,-
+Samoa,WSM,-13.5833,-172.3333,1987,,-
+Samoa,WSM,-13.5833,-172.3333,1992,,-
+Samoa,WSM,-13.5833,-172.3333,1997,,-
+Samoa,WSM,-13.5833,-172.3333,2002,,-
+Samoa,WSM,-13.5833,-172.3333,2007,,-
+Samoa,WSM,-13.5833,-172.3333,2012,,-
+Samoa,WSM,-13.5833,-172.3333,2013,,-
+San Marino,SMR,43.7667,12.4167,1962,,-
+San Marino,SMR,43.7667,12.4167,1967,,-
+San Marino,SMR,43.7667,12.4167,1972,,-
+San Marino,SMR,43.7667,12.4167,1977,,-
+San Marino,SMR,43.7667,12.4167,1982,,-
+San Marino,SMR,43.7667,12.4167,1987,,-
+San Marino,SMR,43.7667,12.4167,1992,,-
+San Marino,SMR,43.7667,12.4167,1997,,-
+San Marino,SMR,43.7667,12.4167,2002,,-
+San Marino,SMR,43.7667,12.4167,2007,,-
+San Marino,SMR,43.7667,12.4167,2012,,-
+San Marino,SMR,43.7667,12.4167,2013,,-
+Sao Tome and Principe,STP,1,7,1962,33835.69511,No Stress
+Sao Tome and Principe,STP,1,7,1967,32118.33692,No Stress
+Sao Tome and Principe,STP,1,7,1972,28113.43384,No Stress
+Sao Tome and Principe,STP,1,7,1977,24940.79422,No Stress
+Sao Tome and Principe,STP,1,7,1982,22064.33068,No Stress
+Sao Tome and Principe,STP,1,7,1987,19961.3592,No Stress
+Sao Tome and Principe,STP,1,7,1992,17733.81383,No Stress
+Sao Tome and Principe,STP,1,7,1997,16265.13665,No Stress
+Sao Tome and Principe,STP,1,7,2002,15092.04068,No Stress
+Sao Tome and Principe,STP,1,7,2007,13342.30981,No Stress
+Sao Tome and Principe,STP,1,7,2012,11589.70324,No Stress
+Sao Tome and Principe,STP,1,7,2013,11295.74648,No Stress
+Saudi Arabia,SAU,25,45,1962,552.2652309,Scarcity
+Saudi Arabia,SAU,25,45,1967,464.1185142,Absolute Scarcity
+Saudi Arabia,SAU,25,45,1972,378.4200302,Absolute Scarcity
+Saudi Arabia,SAU,25,45,1977,291.3829679,Absolute Scarcity
+Saudi Arabia,SAU,25,45,1982,214.8106194,Absolute Scarcity
+Saudi Arabia,SAU,25,45,1987,165.1937123,Absolute Scarcity
+Saudi Arabia,SAU,25,45,1992,139.0207253,Absolute Scarcity
+Saudi Arabia,SAU,25,45,1997,125.912538,Absolute Scarcity
+Saudi Arabia,SAU,25,45,2002,109.9645424,Absolute Scarcity
+Saudi Arabia,SAU,25,45,2007,92.60822738,Absolute Scarcity
+Saudi Arabia,SAU,25,45,2012,84.84206385,Absolute Scarcity
+Saudi Arabia,SAU,25,45,2013,83.24988111,Absolute Scarcity
+Senegal,SEN,14,-14,1962,7686.392791,No Stress
+Senegal,SEN,14,-14,1967,6678.809329,No Stress
+Senegal,SEN,14,-14,1972,5751.51451,No Stress
+Senegal,SEN,14,-14,1977,4999.215239,No Stress
+Senegal,SEN,14,-14,1982,4381.538236,No Stress
+Senegal,SEN,14,-14,1987,3768.431904,No Stress
+Senegal,SEN,14,-14,1992,3228.64514,No Stress
+Senegal,SEN,14,-14,1997,2815.349109,No Stress
+Senegal,SEN,14,-14,2002,2483.144932,No Stress
+Senegal,SEN,14,-14,2007,2167.16139,No Stress
+Senegal,SEN,14,-14,2012,1879.641595,No Stress
+Senegal,SEN,14,-14,2013,1825.478587,No Stress
+Serbia,SRB,44,21,1962,,-
+Serbia,SRB,44,21,1967,,-
+Serbia,SRB,44,21,1972,,-
+Serbia,SRB,44,21,1977,,-
+Serbia,SRB,44,21,1982,,-
+Serbia,SRB,44,21,1987,,-
+Serbia,SRB,44,21,1992,,-
+Serbia,SRB,44,21,1997,,-
+Serbia,SRB,44,21,2002,,-
+Serbia,SRB,44,21,2007,1138.916213,Stress
+Serbia,SRB,44,21,2012,1167.788593,Stress
+Serbia,SRB,44,21,2013,1173.484799,Stress
+Seychelles,SYC,-4.5833,55.6667,1962,,-
+Seychelles,SYC,-4.5833,55.6667,1967,,-
+Seychelles,SYC,-4.5833,55.6667,1972,,-
+Seychelles,SYC,-4.5833,55.6667,1977,,-
+Seychelles,SYC,-4.5833,55.6667,1982,,-
+Seychelles,SYC,-4.5833,55.6667,1987,,-
+Seychelles,SYC,-4.5833,55.6667,1992,,-
+Seychelles,SYC,-4.5833,55.6667,1997,,-
+Seychelles,SYC,-4.5833,55.6667,2002,,-
+Seychelles,SYC,-4.5833,55.6667,2007,,-
+Seychelles,SYC,-4.5833,55.6667,2012,,-
+Seychelles,SYC,-4.5833,55.6667,2013,,-
+Sierra Leone,SLE,8.5,-11.5,1962,72088.37314,No Stress
+Sierra Leone,SLE,8.5,-11.5,1967,66734.17941,No Stress
+Sierra Leone,SLE,8.5,-11.5,1972,60655.20511,No Stress
+Sierra Leone,SLE,8.5,-11.5,1977,54097.93552,No Stress
+Sierra Leone,SLE,8.5,-11.5,1982,48034.38782,No Stress
+Sierra Leone,SLE,8.5,-11.5,1987,42094.61765,No Stress
+Sierra Leone,SLE,8.5,-11.5,1992,39685.19717,No Stress
+Sierra Leone,SLE,8.5,-11.5,1997,40729.95202,No Stress
+Sierra Leone,SLE,8.5,-11.5,2002,35610.57786,No Stress
+Sierra Leone,SLE,8.5,-11.5,2007,29542.01567,No Stress
+Sierra Leone,SLE,8.5,-11.5,2012,26761.54974,No Stress
+Sierra Leone,SLE,8.5,-11.5,2013,26263.62939,No Stress
+Singapore,SGP,1.3667,103.8,1962,342.8179637,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,1967,303.3980583,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,1972,278.7585951,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,1977,258.0312218,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,1982,226.7145286,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,1987,216.2318005,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,1992,185.7182654,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,1997,158.061117,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,2002,143.6781609,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,2007,130.7588371,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,2012,112.9433025,Absolute Scarcity
+Singapore,SGP,1.3667,103.8,2013,111.1275745,Absolute Scarcity
+Slovakia,SVK,48.6667,19.5,1962,,-
+Slovakia,SVK,48.6667,19.5,1967,,-
+Slovakia,SVK,48.6667,19.5,1972,,-
+Slovakia,SVK,48.6667,19.5,1977,,-
+Slovakia,SVK,48.6667,19.5,1982,,-
+Slovakia,SVK,48.6667,19.5,1987,,-
+Slovakia,SVK,48.6667,19.5,1992,,-
+Slovakia,SVK,48.6667,19.5,1997,2340.575681,No Stress
+Slovakia,SVK,48.6667,19.5,2002,2343.352467,No Stress
+Slovakia,SVK,48.6667,19.5,2007,2344.350914,No Stress
+Slovakia,SVK,48.6667,19.5,2012,2330.063047,No Stress
+Slovakia,SVK,48.6667,19.5,2013,2327.560552,No Stress
+Slovenia,SVN,46,15,1962,,-
+Slovenia,SVN,46,15,1967,,-
+Slovenia,SVN,46,15,1972,,-
+Slovenia,SVN,46,15,1977,,-
+Slovenia,SVN,46,15,1982,,-
+Slovenia,SVN,46,15,1987,,-
+Slovenia,SVN,46,15,1992,9351.374256,No Stress
+Slovenia,SVN,46,15,1997,9401.01392,No Stress
+Slovenia,SVN,46,15,2002,9360.601244,No Stress
+Slovenia,SVN,46,15,2007,9251.175102,No Stress
+Slovenia,SVN,46,15,2012,9075.623226,No Stress
+Slovenia,SVN,46,15,2013,9063.31358,No Stress
+Solomon Islands,SLB,-8,159,1962,357405.5714,No Stress
+Solomon Islands,SLB,-8,159,1967,307525.0767,No Stress
+Solomon Islands,SLB,-8,159,1972,258981.8017,No Stress
+Solomon Islands,SLB,-8,159,1977,214963.788,No Stress
+Solomon Islands,SLB,-8,159,1982,181337.2711,No Stress
+Solomon Islands,SLB,-8,159,1987,155820.7956,No Stress
+Solomon Islands,SLB,-8,159,1992,135461.1133,No Stress
+Solomon Islands,SLB,-8,159,1997,117674.6231,No Stress
+Solomon Islands,SLB,-8,159,2002,102786.9757,No Stress
+Solomon Islands,SLB,-8,159,2007,90826.33679,No Stress
+Solomon Islands,SLB,-8,159,2012,81332.1737,No Stress
+Solomon Islands,SLB,-8,159,2013,79646.34883,No Stress
+Somalia,SOM,10,49,1962,2086.997173,No Stress
+Somalia,SOM,10,49,1967,1859.170903,No Stress
+Somalia,SOM,10,49,1972,1719.052401,No Stress
+Somalia,SOM,10,49,1977,1262.055522,Stress
+Somalia,SOM,10,49,1982,956.7031245,Scarcity
+Somalia,SOM,10,49,1987,977.3726821,Scarcity
+Somalia,SOM,10,49,1992,953.2862717,Scarcity
+Somalia,SOM,10,49,1997,899.1115878,Scarcity
+Somalia,SOM,10,49,2002,766.6826307,Scarcity
+Somalia,SOM,10,49,2007,673.3363626,Scarcity
+Somalia,SOM,10,49,2012,588.5160509,Scarcity
+Somalia,SOM,10,49,2013,571.6690535,Scarcity
+South Africa,ZAF,-29,24,1962,2426.942266,No Stress
+South Africa,ZAF,-29,24,1967,2163.492627,No Stress
+South Africa,ZAF,-29,24,1972,1937.190406,No Stress
+South Africa,ZAF,-29,24,1977,1736.058972,No Stress
+South Africa,ZAF,-29,24,1982,1546.329178,Stress
+South Africa,ZAF,-29,24,1987,1360.334309,Stress
+South Africa,ZAF,-29,24,1992,1221.016562,Stress
+South Africa,ZAF,-29,24,1997,1094.656967,Stress
+South Africa,ZAF,-29,24,2002,983.613504,Scarcity
+South Africa,ZAF,-29,24,2007,920.7401781,Scarcity
+South Africa,ZAF,-29,24,2012,855.9142,Scarcity
+South Africa,ZAF,-29,24,2013,842.778694,Scarcity
+Spain,ESP,40,-4,1962,3584.395065,No Stress
+Spain,ESP,40,-4,1967,3402.38596,No Stress
+Spain,ESP,40,-4,1972,3222.935709,No Stress
+Spain,ESP,40,-4,1977,3057.46074,No Stress
+Spain,ESP,40,-4,1982,2930.726919,No Stress
+Spain,ESP,40,-4,1987,2878.530665,No Stress
+Spain,ESP,40,-4,1992,2846.337817,No Stress
+Spain,ESP,40,-4,1997,2809.328476,No Stress
+Spain,ESP,40,-4,2002,2683.944446,No Stress
+Spain,ESP,40,-4,2007,2458.719003,No Stress
+Spain,ESP,40,-4,2012,2377.43718,No Stress
+Spain,ESP,40,-4,2013,2385.353671,No Stress
+Sri Lanka,LKA,7,81,1962,5056.018386,No Stress
+Sri Lanka,LKA,7,81,1967,4511.663676,No Stress
+Sri Lanka,LKA,7,81,1972,4105.435036,No Stress
+Sri Lanka,LKA,7,81,1977,3787.118061,No Stress
+Sri Lanka,LKA,7,81,1982,3474.598579,No Stress
+Sri Lanka,LKA,7,81,1987,3224.821352,No Stress
+Sri Lanka,LKA,7,81,1992,3029.955239,No Stress
+Sri Lanka,LKA,7,81,1997,2843.601896,No Stress
+Sri Lanka,LKA,7,81,2002,2790.550182,No Stress
+Sri Lanka,LKA,7,81,2007,2634.862019,No Stress
+Sri Lanka,LKA,7,81,2012,2597.402597,No Stress
+Sri Lanka,LKA,7,81,2013,2577.7474,No Stress
+Saint Kitts and Nevis,KNA,17.3333,-62.75,1962,470.9021701,Absolute Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,1967,506.5107739,Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,1972,541.4185165,Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,1977,546.1247895,Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,1982,561.2590912,Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,1987,580.369018,Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,1992,580.270793,Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,1997,546.8839011,Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,2002,511.3563728,Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,2007,475.4546535,Absolute Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,2012,447.894894,Absolute Scarcity
+Saint Kitts and Nevis,KNA,17.3333,-62.75,2013,442.8779687,Absolute Scarcity
+Sudan,SDN,15,30,1962,2714.492158,No Stress
+Sudan,SDN,15,30,1967,2360.853647,No Stress
+Sudan,SDN,15,30,1972,2035.013354,No Stress
+Sudan,SDN,15,30,1977,1735.299698,No Stress
+Sudan,SDN,15,30,1982,1465.065513,Stress
+Sudan,SDN,15,30,1987,1260.337286,Stress
+Sudan,SDN,15,30,1992,0,Absolute Scarcity
+Sudan,SDN,15,30,1997,0,Absolute Scarcity
+Sudan,SDN,15,30,2002,0,Absolute Scarcity
+Sudan,SDN,15,30,2007,0,Absolute Scarcity
+Sudan,SDN,15,30,2012,83.27629601,Absolute Scarcity
+Sudan,SDN,15,30,2013,81.20099685,Absolute Scarcity
+Suriname,SUR,4,-56,1962,287006.7479,No Stress
+Suriname,SUR,4,-56,1967,250381.9748,No Stress
+Suriname,SUR,4,-56,1972,236169.3334,No Stress
+Suriname,SUR,4,-56,1977,242352.1377,No Stress
+Suriname,SUR,4,-56,1982,239198.6844,No Stress
+Suriname,SUR,4,-56,1987,227477.1747,No Stress
+Suriname,SUR,4,-56,1992,236446.1428,No Stress
+Suriname,SUR,4,-56,1997,221095.158,No Stress
+Suriname,SUR,4,-56,2002,206207.4697,No Stress
+Suriname,SUR,4,-56,2007,193952.9772,No Stress
+Suriname,SUR,4,-56,2012,185205.625,No Stress
+Suriname,SUR,4,-56,2013,183579.4658,No Stress
+Swaziland,SWZ,-26.5,31.5,1962,7218.656947,No Stress
+Swaziland,SWZ,-26.5,31.5,1967,6415.895868,No Stress
+Swaziland,SWZ,-26.5,31.5,1972,5589.229724,No Stress
+Swaziland,SWZ,-26.5,31.5,1977,4798.822107,No Stress
+Swaziland,SWZ,-26.5,31.5,1982,4129.303509,No Stress
+Swaziland,SWZ,-26.5,31.5,1987,3440.111439,No Stress
+Swaziland,SWZ,-26.5,31.5,1992,2907.658707,No Stress
+Swaziland,SWZ,-26.5,31.5,1997,2622.273432,No Stress
+Swaziland,SWZ,-26.5,31.5,2002,2439.513465,No Stress
+Swaziland,SWZ,-26.5,31.5,2007,2326.038325,No Stress
+Swaziland,SWZ,-26.5,31.5,2012,2144.624021,No Stress
+Swaziland,SWZ,-26.5,31.5,2013,2112.821465,No Stress
+Sweden,SWE,62,15,1962,22614.29742,No Stress
+Sweden,SWE,62,15,1967,21733.79507,No Stress
+Sweden,SWE,62,15,1972,21053.14997,No Stress
+Sweden,SWE,62,15,1977,20723.40436,No Stress
+Sweden,SWE,62,15,1982,20539.89165,No Stress
+Sweden,SWE,62,15,1987,20362.46619,No Stress
+Sweden,SWE,62,15,1992,19727.58171,No Stress
+Sweden,SWE,62,15,1997,19330.63549,No Stress
+Sweden,SWE,62,15,2002,19159.75403,No Stress
+Sweden,SWE,62,15,2007,18692.42242,No Stress
+Sweden,SWE,62,15,2012,17963.36608,No Stress
+Sweden,SWE,62,15,2013,17811.79681,No Stress
+Switzerland,CHE,47,8,1962,7248.177415,No Stress
+Switzerland,CHE,47,8,1967,6742.565029,No Stress
+Switzerland,CHE,47,8,1972,6452.688695,No Stress
+Switzerland,CHE,47,8,1977,6431.918619,No Stress
+Switzerland,CHE,47,8,1982,6321.083834,No Stress
+Switzerland,CHE,47,8,1987,6172.550911,No Stress
+Switzerland,CHE,47,8,1992,5876.052526,No Stress
+Switzerland,CHE,47,8,1997,5699.045805,No Stress
+Switzerland,CHE,47,8,2002,5545.829763,No Stress
+Switzerland,CHE,47,8,2007,5350.201831,No Stress
+Switzerland,CHE,47,8,2012,5051.982272,No Stress
+Switzerland,CHE,47,8,2013,4995.131601,No Stress
+Syrian Arab Republic,SYR,35,38,1962,1456.2746,Stress
+Syrian Arab Republic,SYR,35,38,1967,1236.589026,Stress
+Syrian Arab Republic,SYR,35,38,1972,1044.40554,Stress
+Syrian Arab Republic,SYR,35,38,1977,881.7840623,Scarcity
+Syrian Arab Republic,SYR,35,38,1982,741.867851,Scarcity
+Syrian Arab Republic,SYR,35,38,1987,627.020045,Scarcity
+Syrian Arab Republic,SYR,35,38,1992,540.7963021,Scarcity
+Syrian Arab Republic,SYR,35,38,1997,470.1842098,Absolute Scarcity
+Syrian Arab Republic,SYR,35,38,2002,419.6608397,Absolute Scarcity
+Syrian Arab Republic,SYR,35,38,2007,364.5941459,Absolute Scarcity
+Syrian Arab Republic,SYR,35,38,2012,318.4034611,Absolute Scarcity
+Syrian Arab Republic,SYR,35,38,2013,312.1833355,Absolute Scarcity
+Tajikistan,TJK,39,71,1962,,-
+Tajikistan,TJK,39,71,1967,,-
+Tajikistan,TJK,39,71,1972,,-
+Tajikistan,TJK,39,71,1977,,-
+Tajikistan,TJK,39,71,1982,,-
+Tajikistan,TJK,39,71,1987,,-
+Tajikistan,TJK,39,71,1992,11489.70154,No Stress
+Tajikistan,TJK,39,71,1997,10688.58146,No Stress
+Tajikistan,TJK,39,71,2002,9909.249018,No Stress
+Tajikistan,TJK,39,71,2007,8924.170566,No Stress
+Tajikistan,TJK,39,71,2012,7923.595859,No Stress
+Tajikistan,TJK,39,71,2013,7731.637847,No Stress
+"Tanzania, United Republic of",TZA,-6,35,1962,7862.479248,No Stress
+"Tanzania, United Republic of",TZA,-6,35,1967,6771.263339,No Stress
+"Tanzania, United Republic of",TZA,-6,35,1972,5791.130869,No Stress
+"Tanzania, United Republic of",TZA,-6,35,1977,4936.209192,No Stress
+"Tanzania, United Republic of",TZA,-6,35,1982,4221.522801,No Stress
+"Tanzania, United Republic of",TZA,-6,35,1987,3617.808352,No Stress
+"Tanzania, United Republic of",TZA,-6,35,1992,3084.142116,No Stress
+"Tanzania, United Republic of",TZA,-6,35,1997,2659.402782,No Stress
+"Tanzania, United Republic of",TZA,-6,35,2002,2345.942972,No Stress
+"Tanzania, United Republic of",TZA,-6,35,2007,2042.816808,No Stress
+"Tanzania, United Republic of",TZA,-6,35,2012,1757.943451,No Stress
+"Tanzania, United Republic of",TZA,-6,35,2013,1705.475506,No Stress
+Thailand,THA,15,100,1962,7725.752245,No Stress
+Thailand,THA,15,100,1967,6647.109459,No Stress
+Thailand,THA,15,100,1972,5747.89453,No Stress
+Thailand,THA,15,100,1977,5055.347384,No Stress
+Thailand,THA,15,100,1982,4558.613515,No Stress
+Thailand,THA,15,100,1987,4157.942396,No Stress
+Thailand,THA,15,100,1992,3893.446109,No Stress
+Thailand,THA,15,100,1997,3728.805953,No Stress
+Thailand,THA,15,100,2002,3518.927858,No Stress
+Thailand,THA,15,100,2007,3397.555095,No Stress
+Thailand,THA,15,100,2012,3361.533228,No Stress
+Thailand,THA,15,100,2013,3350.221134,No Stress
+Timor-Leste,TLS,-8.55,125.5167,1962,15868.14087,No Stress
+Timor-Leste,TLS,-8.55,125.5167,1967,14451.65512,No Stress
+Timor-Leste,TLS,-8.55,125.5167,1972,12884.19283,No Stress
+Timor-Leste,TLS,-8.55,125.5167,1977,12993.75066,No Stress
+Timor-Leste,TLS,-8.55,125.5167,1982,13770.34122,No Stress
+Timor-Leste,TLS,-8.55,125.5167,1987,11817.16834,No Stress
+Timor-Leste,TLS,-8.55,125.5167,1992,10207.46692,No Stress
+Timor-Leste,TLS,-8.55,125.5167,1997,9523.290619,No Stress
+Timor-Leste,TLS,-8.55,125.5167,2002,9134.202167,No Stress
+Timor-Leste,TLS,-8.55,125.5167,2007,8089.754422,No Stress
+Timor-Leste,TLS,-8.55,125.5167,2012,7149.956743,No Stress
+Timor-Leste,TLS,-8.55,125.5167,2013,6961.457339,No Stress
+Togo,TGO,8,1.1667,1962,7130.642043,No Stress
+Togo,TGO,8,1.1667,1967,6197.974071,No Stress
+Togo,TGO,8,1.1667,1972,5116.625697,No Stress
+Togo,TGO,8,1.1667,1977,4566.079509,No Stress
+Togo,TGO,8,1.1667,1982,3944.978865,No Stress
+Togo,TGO,8,1.1667,1987,3311.592012,No Stress
+Togo,TGO,8,1.1667,1992,2885.558258,No Stress
+Togo,TGO,8,1.1667,1997,2553.121013,No Stress
+Togo,TGO,8,1.1667,2002,2244.483158,No Stress
+Togo,TGO,8,1.1667,2007,1970.930996,No Stress
+Togo,TGO,8,1.1667,2012,1731.16433,No Stress
+Togo,TGO,8,1.1667,2013,1686.963527,Stress
+Tonga,TON,-20,-175,1962,,-
+Tonga,TON,-20,-175,1967,,-
+Tonga,TON,-20,-175,1972,,-
+Tonga,TON,-20,-175,1977,,-
+Tonga,TON,-20,-175,1982,,-
+Tonga,TON,-20,-175,1987,,-
+Tonga,TON,-20,-175,1992,,-
+Tonga,TON,-20,-175,1997,,-
+Tonga,TON,-20,-175,2002,,-
+Tonga,TON,-20,-175,2007,,-
+Tonga,TON,-20,-175,2012,,-
+Tonga,TON,-20,-175,2013,,-
+Trinidad and Tobago,TTO,11,-61,1962,4363.542151,No Stress
+Trinidad and Tobago,TTO,11,-61,1967,4147.2355,No Stress
+Trinidad and Tobago,TTO,11,-61,1972,3963.903702,No Stress
+Trinidad and Tobago,TTO,11,-61,1977,3693.170616,No Stress
+Trinidad and Tobago,TTO,11,-61,1982,3426.705098,No Stress
+Trinidad and Tobago,TTO,11,-61,1987,3212.73582,No Stress
+Trinidad and Tobago,TTO,11,-61,1992,3103.065408,No Stress
+Trinidad and Tobago,TTO,11,-61,1997,3045.982436,No Stress
+Trinidad and Tobago,TTO,11,-61,2002,3005.346229,No Stress
+Trinidad and Tobago,TTO,11,-61,2007,2931.208207,No Stress
+Trinidad and Tobago,TTO,11,-61,2012,2871.158984,No Stress
+Trinidad and Tobago,TTO,11,-61,2013,2863.212271,No Stress
+Tunisia,TUN,34,9,1962,964.188056,Scarcity
+Tunisia,TUN,34,9,1967,868.0047251,Scarcity
+Tunisia,TUN,34,9,1972,792.3578549,Scarcity
+Tunisia,TUN,34,9,1977,712.2612333,Scarcity
+Tunisia,TUN,34,9,1982,623.4045228,Scarcity
+Tunisia,TUN,34,9,1987,545.8862623,Scarcity
+Tunisia,TUN,34,9,1992,494.1165385,Absolute Scarcity
+Tunisia,TUN,34,9,1997,455.2409684,Absolute Scarcity
+Tunisia,TUN,34,9,2002,430.3049575,Absolute Scarcity
+Tunisia,TUN,34,9,2007,410.2649363,Absolute Scarcity
+Tunisia,TUN,34,9,2012,389.236836,Absolute Scarcity
+Tunisia,TUN,34,9,2013,385.3396408,Absolute Scarcity
+Turkey,TUR,39,35,1962,7851.958415,No Stress
+Turkey,TUR,39,35,1967,6995.721577,No Stress
+Turkey,TUR,39,35,1972,6223.379972,No Stress
+Turkey,TUR,39,35,1977,5533.857444,No Stress
+Turkey,TUR,39,35,1982,4935.003611,No Stress
+Turkey,TUR,39,35,1987,4436.34307,No Stress
+Turkey,TUR,39,35,1992,4066.994325,No Stress
+Turkey,TUR,39,35,1997,3759.99548,No Stress
+Turkey,TUR,39,35,2002,3491.109973,No Stress
+Turkey,TUR,39,35,2007,3266.350932,No Stress
+Turkey,TUR,39,35,2012,3067.686627,No Stress
+Turkey,TUR,39,35,2013,3029.38742,No Stress
+Turkmenistan,TKM,40,60,1962,,-
+Turkmenistan,TKM,40,60,1967,,-
+Turkmenistan,TKM,40,60,1972,,-
+Turkmenistan,TKM,40,60,1977,,-
+Turkmenistan,TKM,40,60,1982,,-
+Turkmenistan,TKM,40,60,1987,,-
+Turkmenistan,TKM,40,60,1992,361.9293591,Absolute Scarcity
+Turkmenistan,TKM,40,60,1997,324.0320379,Absolute Scarcity
+Turkmenistan,TKM,40,60,2002,305.4234288,Absolute Scarcity
+Turkmenistan,TKM,40,60,2007,289.199619,Absolute Scarcity
+Turkmenistan,TKM,40,60,2012,271.6061745,Absolute Scarcity
+Turkmenistan,TKM,40,60,2013,268.1260868,Absolute Scarcity
+Turks and Caicos Islands,TCA,21.75,-71.5833,1962,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,1967,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,1972,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,1977,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,1982,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,1987,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,1992,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,1997,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,2002,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,2007,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,2012,,-
+Turks and Caicos Islands,TCA,21.75,-71.5833,2013,,-
+Tuvalu,TUV,-8,178,1962,,-
+Tuvalu,TUV,-8,178,1967,,-
+Tuvalu,TUV,-8,178,1972,,-
+Tuvalu,TUV,-8,178,1977,,-
+Tuvalu,TUV,-8,178,1982,,-
+Tuvalu,TUV,-8,178,1987,,-
+Tuvalu,TUV,-8,178,1992,,-
+Tuvalu,TUV,-8,178,1997,,-
+Tuvalu,TUV,-8,178,2002,,-
+Tuvalu,TUV,-8,178,2007,,-
+Tuvalu,TUV,-8,178,2012,,-
+Tuvalu,TUV,-8,178,2013,,-
+Uganda,UGA,1,32,1962,5386.62501,No Stress
+Uganda,UGA,1,32,1967,4545.111808,No Stress
+Uganda,UGA,1,32,1972,3904.513227,No Stress
+Uganda,UGA,1,32,1977,3399.988213,No Stress
+Uganda,UGA,1,32,1982,2926.963261,No Stress
+Uganda,UGA,1,32,1987,2478.365773,No Stress
+Uganda,UGA,1,32,1992,2075.744447,No Stress
+Uganda,UGA,1,32,1997,1765.942282,No Stress
+Uganda,UGA,1,32,2002,1503.270133,Stress
+Uganda,UGA,1,32,2007,1269.169875,Stress
+Uganda,UGA,1,32,2012,1073.024548,Stress
+Uganda,UGA,1,32,2013,1037.817097,Stress
+Ukraine,UKR,49,32,1962,,-
+Ukraine,UKR,49,32,1967,,-
+Ukraine,UKR,49,32,1972,,-
+Ukraine,UKR,49,32,1977,,-
+Ukraine,UKR,49,32,1982,,-
+Ukraine,UKR,49,32,1987,,-
+Ukraine,UKR,49,32,1992,1018.211489,Stress
+Ukraine,UKR,49,32,1997,1049.529387,Stress
+Ukraine,UKR,49,32,2002,1101.602614,Stress
+Ukraine,UKR,49,32,2007,1141.705915,Stress
+Ukraine,UKR,49,32,2012,1164.644805,Stress
+Ukraine,UKR,49,32,2013,1167.299778,Stress
+United Arab Emirates,ARE,24,54,1962,1379.006012,Stress
+United Arab Emirates,ARE,24,54,1967,896.2715105,Scarcity
+United Arab Emirates,ARE,24,54,1972,465.2042712,Absolute Scarcity
+United Arab Emirates,ARE,24,54,1977,207.291979,Absolute Scarcity
+United Arab Emirates,ARE,24,54,1982,129.7841689,Absolute Scarcity
+United Arab Emirates,ARE,24,54,1987,99.02310407,Absolute Scarcity
+United Arab Emirates,ARE,24,54,1992,74.51649969,Absolute Scarcity
+United Arab Emirates,ARE,24,54,1997,57.49344671,Absolute Scarcity
+United Arab Emirates,ARE,24,54,2002,46.52650196,Absolute Scarcity
+United Arab Emirates,ARE,24,54,2007,25.87390405,Absolute Scarcity
+United Arab Emirates,ARE,24,54,2012,16.29433921,Absolute Scarcity
+United Arab Emirates,ARE,24,54,2013,16.04942538,Absolute Scarcity
+United Kingdom,GBR,54,-2,1962,2723.004695,No Stress
+United Kingdom,GBR,54,-2,1967,2639.069883,No Stress
+United Kingdom,GBR,54,-2,1972,2585.312412,No Stress
+United Kingdom,GBR,54,-2,1977,2580.369983,No Stress
+United Kingdom,GBR,54,-2,1982,2574.864587,No Stress
+United Kingdom,GBR,54,-2,1987,2552.72477,No Stress
+United Kingdom,GBR,54,-2,1992,2518.217917,No Stress
+United Kingdom,GBR,54,-2,1997,2486.412442,No Stress
+United Kingdom,GBR,54,-2,2002,2442.291227,No Stress
+United Kingdom,GBR,54,-2,2007,2364.549513,No Stress
+United Kingdom,GBR,54,-2,2012,2276.284413,No Stress
+United Kingdom,GBR,54,-2,2013,2261.851278,No Stress
+United States,USA,38,-97,1962,15106.8415,No Stress
+United States,USA,38,-97,1967,14181.32775,No Stress
+United States,USA,38,-97,1972,13425.69654,No Stress
+United States,USA,38,-97,1977,12795.19068,No Stress
+United States,USA,38,-97,1982,12164.1688,No Stress
+United States,USA,38,-97,1987,11630.7385,No Stress
+United States,USA,38,-97,1992,10985.75516,No Stress
+United States,USA,38,-97,1997,10335.32974,No Stress
+United States,USA,38,-97,2002,9797.472783,No Stress
+United States,USA,38,-97,2007,9354.940439,No Stress
+United States,USA,38,-97,2012,8978.13399,No Stress
+United States,USA,38,-97,2013,8914.087082,No Stress
+Uruguay,URY,-33,-56,1962,22657.08464,No Stress
+Uruguay,URY,-33,-56,1967,21452.41581,No Stress
+Uruguay,URY,-33,-56,1972,20909.78844,No Stress
+Uruguay,URY,-33,-56,1977,20649.45692,No Stress
+Uruguay,URY,-33,-56,1982,19971.32253,No Stress
+Uruguay,URY,-33,-56,1987,19344.34475,No Stress
+Uruguay,URY,-33,-56,1992,29226.63225,No Stress
+Uruguay,URY,-33,-56,1997,28190.98567,No Stress
+Uruguay,URY,-33,-56,2002,27708.48986,No Stress
+Uruguay,URY,-33,-56,2007,27618.15297,No Stress
+Uruguay,URY,-33,-56,2012,27155.56101,No Stress
+Uruguay,URY,-33,-56,2013,27061.43886,No Stress
+Uzbekistan,UZB,41,64,1962,,-
+Uzbekistan,UZB,41,64,1967,,-
+Uzbekistan,UZB,41,64,1972,,-
+Uzbekistan,UZB,41,64,1977,,-
+Uzbekistan,UZB,41,64,1982,,-
+Uzbekistan,UZB,41,64,1987,,-
+Uzbekistan,UZB,41,64,1992,761.8070773,Scarcity
+Uzbekistan,UZB,41,64,1997,690.4128111,Scarcity
+Uzbekistan,UZB,41,64,2002,646.5692064,Scarcity
+Uzbekistan,UZB,41,64,2007,608.158404,Scarcity
+Uzbekistan,UZB,41,64,2012,548.7917513,Scarcity
+Uzbekistan,UZB,41,64,2013,540.2867421,Scarcity
+Vanuatu,VUT,-16,167,1962,,-
+Vanuatu,VUT,-16,167,1967,,-
+Vanuatu,VUT,-16,167,1972,,-
+Vanuatu,VUT,-16,167,1977,,-
+Vanuatu,VUT,-16,167,1982,,-
+Vanuatu,VUT,-16,167,1987,,-
+Vanuatu,VUT,-16,167,1992,,-
+Vanuatu,VUT,-16,167,1997,,-
+Vanuatu,VUT,-16,167,2002,,-
+Vanuatu,VUT,-16,167,2007,,-
+Vanuatu,VUT,-16,167,2012,,-
+Vanuatu,VUT,-16,167,2013,,-
+"Venezuela, Bolivarian Republic of",VEN,8,-66,1962,88395.92958,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,1967,74321.36232,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,1972,62934.43841,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,1977,52849.30471,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,1982,45177.17407,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,1987,39527.25534,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,1992,38904.59921,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,1997,34969.31215,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,2002,31775.95371,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,2007,29107.67406,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,2012,26873.83938,No Stress
+"Venezuela, Bolivarian Republic of",VEN,8,-66,2013,26475.72832,No Stress
+Viet Nam,VNM,16,106,1962,9949.339756,No Stress
+Viet Nam,VNM,16,106,1967,8989.494747,No Stress
+Viet Nam,VNM,16,106,1972,8029.849412,No Stress
+Viet Nam,VNM,16,106,1977,7145.839547,No Stress
+Viet Nam,VNM,16,106,1982,6453.930002,No Stress
+Viet Nam,VNM,16,106,1987,5820.242915,No Stress
+Viet Nam,VNM,16,106,1992,5250.540175,No Stress
+Viet Nam,VNM,16,106,1997,4836.697534,No Stress
+Viet Nam,VNM,16,106,2002,4518.611929,No Stress
+Viet Nam,VNM,16,106,2007,4267.470924,No Stress
+Viet Nam,VNM,16,106,2012,4048.532829,No Stress
+Viet Nam,VNM,16,106,2013,4006.29146,No Stress
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,1962,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,1967,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,1972,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,1977,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,1982,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,1987,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,1992,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,1997,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,2002,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,2007,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,2012,,-
+"Virgin Islands, U.S.",VIR,18.3333,-64.8333,2013,,-
+Yemen,YEM,15,48,1962,398.0217938,Absolute Scarcity
+Yemen,YEM,15,48,1967,363.1048159,Absolute Scarcity
+Yemen,YEM,15,48,1972,333.8528189,Absolute Scarcity
+Yemen,YEM,15,48,1977,296.2509443,Absolute Scarcity
+Yemen,YEM,15,48,1982,245.4125098,Absolute Scarcity
+Yemen,YEM,15,48,1987,201.7293585,Absolute Scarcity
+Yemen,YEM,15,48,1992,161.0311515,Absolute Scarcity
+Yemen,YEM,15,48,1997,130.5319194,Absolute Scarcity
+Yemen,YEM,15,48,2002,113.2010297,Absolute Scarcity
+Yemen,YEM,15,48,2007,99.14002168,Absolute Scarcity
+Yemen,YEM,15,48,2012,88.04142173,Absolute Scarcity
+Yemen,YEM,15,48,2013,86.03954681,Absolute Scarcity
+Zambia,ZMB,-15,30,1962,24532.3633,No Stress
+Zambia,ZMB,-15,30,1967,21059.39248,No Stress
+Zambia,ZMB,-15,30,1972,17891.53403,No Stress
+Zambia,ZMB,-15,30,1977,15121.1312,No Stress
+Zambia,ZMB,-15,30,1982,12862.14475,No Stress
+Zambia,ZMB,-15,30,1987,11071.35669,No Stress
+Zambia,ZMB,-15,30,1992,9745.451717,No Stress
+Zambia,ZMB,-15,30,1997,8605.068042,No Stress
+Zambia,ZMB,-15,30,2002,7547.934798,No Stress
+Zambia,ZMB,-15,30,2007,6622.833747,No Stress
+Zambia,ZMB,-15,30,2012,5698.006103,No Stress
+Zambia,ZMB,-15,30,2013,5516.334403,No Stress
+Zimbabwe,ZWE,-20,30,1962,3060.210006,No Stress
+Zimbabwe,ZWE,-20,30,1967,2598.223332,No Stress
+Zimbabwe,ZWE,-20,30,1972,2199.781027,No Stress
+Zimbabwe,ZWE,-20,30,1977,1863.024823,No Stress
+Zimbabwe,ZWE,-20,30,1982,1556.472399,Stress
+Zimbabwe,ZWE,-20,30,1987,1286.842965,Stress
+Zimbabwe,ZWE,-20,30,1992,1116.446763,Stress
+Zimbabwe,ZWE,-20,30,1997,1017.781033,Stress
+Zimbabwe,ZWE,-20,30,2002,969.8659639,Scarcity
+Zimbabwe,ZWE,-20,30,2007,962.3113054,Scarcity
+Zimbabwe,ZWE,-20,30,2012,893.3049273,Scarcity
+Zimbabwe,ZWE,-20,30,2013,866.4526496,Scarcity

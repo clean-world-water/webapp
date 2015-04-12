@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Use correct character set. -->
+  <meta charset="utf-8">
+  <!-- Tell IE to use the latest, best version (or Chrome Frame if pre-IE11). -->
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <script src='/js/vendor/d3.min.js'></script>
+  <title>Hello World!</title>
+  <script src="../Build/Cesium/Cesium.js"></script>
+  <style>
+      @import url(../Build/Cesium/Widgets/widgets.css);
+      html, body, #cesiumContainer {
+          width: 90%; height: 90%; margin: 0; padding: 0; overflow: hidden;
+      }
+  html {
+        height: 100%;
+      }
+
+      body {
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+        height: 100%;
+      }  </style>
+</head>
+<body>
+  <div id="cesiumContainer"></div>
+  <script>
+    var viewer = new Cesium.Viewer('cesiumContainer');
+
+d3.csv('/data/water_out.csv', function(err, data)
+{
+  var color_category_scale = d3.scale.ordinal().range([Cesium.Color.GREEN,Cesium.Color.YELLOW,Cesium.Color.RED,Cesium.Color.BLACK,Cesium.Color.WHITE,Cesium.Color.WHITE]).domain(d3.set(data.map(function(d){return d.water_stress_category;})).values());
+  var years = d3.set(data.map(function(d){return d.year;})).values();
+  var cities = d3.set(data.map(function(d){return d.country_code;})).values();
+  var data2 = [];
+  cities.forEach(function(cc)
+  {
+    var data_local = data.filter(function(d){return d.country_code == cc;});
+    var v = data_local[0];
+    v.seq = [];
+    years.forEach(function(year)
+    {
+      var u = data_local.filter(function(d){return d.year == year; });
+      if (u.length > 0)
+      {
+        v.seq.push({year: year, water_stress_index: u[0].water_stress_index, water_stress_category: u[0].water_stress_category});
+      }
+      else
+      {
+        v.seq.push({year: year, water_stress_index: null, water_stress_category: null});
+      }
+    });
+    data2.push(v);
+  });
+  data2.forEach(function(d)
+  {
+    viewer.entities.add({
+      name : d.country_name,
+      position : Cesium.Cartesian3.fromDegrees(d.longitude,d.latitude),
+      point : {
+        pixelSize :12,
+        color : color_category_scale(d.seq[0].water_stress_category),
+        outlineColor : Cesium.Color.WHITE,
+        outlineWidth : 1
+      },
+      label : {
+        text : d.country_code,
+        font : '10pt monospace',
+        style: Cesium.LabelStyle.FILL_AND_OUTLINE,
+        outlineWidth : 2,
+        verticalOrigin : Cesium.VerticalOrigin.BOTTOM,
+        pixelOffset : new Cesium.Cartesian2(0, -9)
+      }
+    });
+  });
+
+});
+
+</script>
+</body>
+</html>
