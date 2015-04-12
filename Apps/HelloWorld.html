@@ -29,7 +29,52 @@
 <body>
   <div id="cesiumContainer"></div>
   <script>
+  function tm(unix_tm) {
+       var dt = new Date(unix_tm*1000);
+       return ""+ dt;
+
+   }
     var viewer = new Cesium.Viewer('cesiumContainer');
+
+d3.json("https://pure-water-mapper.herokuapp.com/userinputs/get", function(error, data){
+    if (error != null) {
+      console.log(err);
+      return;
+    }
+    console.log(data);
+    data.forEach(function(d){
+      console.log(d);
+      if(d.lat == null || d.lon == null || d.waterInfrastructure == null)
+        return;
+
+      var entity = viewer.entities.add({
+        name : d.waterInfrastructure,
+        position : Cesium.Cartesian3.fromDegrees(d.lon,d.lat),
+        point : {
+          pixelSize :12,
+          color : Cesium.Color.RED,
+          outlineColor : Cesium.Color.WHITE,
+          outlineWidth : 1
+        },
+        label : {
+          text : d.waterInfrastructure,
+          font : '10pt monospace',
+          style: Cesium.LabelStyle.FILL_AND_OUTLINE,
+          outlineWidth : 2,
+          verticalOrigin : Cesium.VerticalOrigin.BOTTOM,
+          pixelOffset : new Cesium.Cartesian2(0, -9)
+        },
+        description : "<dl>"+
+          "<dt>Location</dt><dd>"+d.lat+", "+d.lon+"</dd>"+
+          "<dt>Measurement</dt><dd>"+d.waterQualityMeasurement+"</dd>"+
+          "<dt>Tool</dt><dd>"+d.waterMeasurementTool+"</dd>"+
+          "<dt>Created At</dt><dd>"+tm(d.createdAt)+"</dd>"+
+          "</dl>"
+
+      });
+
+    });
+});
 
 d3.csv('/data/water_out.csv', function(err, data)
 {
