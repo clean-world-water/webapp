@@ -34,6 +34,7 @@
        return ""+ dt;
 
    }
+   var focus_index = 0;
     var viewer = new Cesium.Viewer('cesiumContainer');
 
 d3.json("https://pure-water-mapper.herokuapp.com/userinputs/get", function(error, data){
@@ -108,7 +109,7 @@ d3.csv('/data/water_out.csv', function(err, data)
       position : Cesium.Cartesian3.fromDegrees(d.longitude,d.latitude),
       point : {
         pixelSize :12,
-        color : color_category_scale(d.seq[0].water_stress_category),
+        color : color_category_scale(d.seq[focus_index].water_stress_category),
         outlineColor : Cesium.Color.WHITE,
         outlineWidth : 1
       },
@@ -119,7 +120,12 @@ d3.csv('/data/water_out.csv', function(err, data)
         outlineWidth : 2,
         verticalOrigin : Cesium.VerticalOrigin.BOTTOM,
         pixelOffset : new Cesium.Cartesian2(0, -9)
-      }
+      },
+      description : "<dl>"+
+        "<dt>Country</dt><dd>"+d.country_name+"</dd>"+
+        "<dt>Year</dt><dd>"+d.seq[focus_index].year+"</dd>"+
+        "<dt>Water Stress Index</dt><dd>"+d.seq[focus_index].water_stress_index+"</dd>"+
+        "</dl>"
     });
   });
 
