@@ -88,6 +88,7 @@ d3.csv('/data/water_out.csv', function(err, data)
   var years = d3.set(data.map(function(d){return d.year;})).values();
   var cities = d3.set(data.map(function(d){return d.country_code;})).values();
   var data2 = [];
+  focus_index = years.length - 1;
   cities.forEach(function(cc)
   {
     var data_local = data.filter(function(d){return d.country_code == cc;});
