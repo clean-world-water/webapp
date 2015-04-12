@@ -101,7 +101,58 @@
 
 </div>
   <script>
-    var viewer = new Cesium.Viewer('cesiumContainer');
+  function tm(unix_tm) {
+       var dt = new Date(unix_tm*1000);
+       return ""+ dt;
+
+   }
+   var focus_index = 0;
+    var viewer = new Cesium.Viewer('cesiumContainer',{
+    imageryProvider : new Cesium.OpenStreetMapImageryProvider({
+                url: 'http://stamen-tiles.a.ssl.fastly.net/watercolor/',
+                fileExtension: 'jpg',
+                credit: 'Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under CC BY SA.'
+    }),
+    baseLayerPicker : false
+    });
+
+d3.json("https://pure-water-mapper.herokuapp.com/userinputs/get", function(error, data){
+    if (error != null) {
+      console.log(err);
+      return;
+    }
+    data.forEach(function(d){
+      if(d.lat == null || d.lon == null || d.waterInfrastructure == null)
+        return;
+
+      var entity = viewer.entities.add({
+        name : d.waterInfrastructure,
+        position : Cesium.Cartesian3.fromDegrees(d.lon,d.lat),
+        point : {
+          pixelSize :12,
+          color : Cesium.Color.RED,
+          outlineColor : Cesium.Color.WHITE,
+          outlineWidth : 1
+        },
+        label : {
+          text : d.waterInfrastructure,
+          font : '10pt monospace',
+          style: Cesium.LabelStyle.FILL_AND_OUTLINE,
+          outlineWidth : 2,
+          verticalOrigin : Cesium.VerticalOrigin.BOTTOM,
+          pixelOffset : new Cesium.Cartesian2(0, -9)
+        },
+        description : "<dl>"+
+          "<dt>Location</dt><dd>"+d.lat+", "+d.lon+"</dd>"+
+          "<dt>Measurement</dt><dd>"+d.waterQualityMeasurement+"</dd>"+
+          "<dt>Tool</dt><dd>"+d.waterMeasurementTool+"</dd>"+
+          "<dt>Created At</dt><dd>"+tm(d.createdAt)+"</dd>"+
+          "</dl>"
+
+      });
+
+    });
+});
 
 d3.csv('/data/water_out.csv', function(err, data)
 {
@@ -109,6 +160,7 @@ d3.csv('/data/water_out.csv', function(err, data)
   var years = d3.set(data.map(function(d){return d.year;})).values();
   var cities = d3.set(data.map(function(d){return d.country_code;})).values();
   var data2 = [];
+  focus_index = years.length - 1;
   cities.forEach(function(cc)
   {
     var data_local = data.filter(function(d){return d.country_code == cc;});
@@ -135,7 +187,7 @@ d3.csv('/data/water_out.csv', function(err, data)
       position : Cesium.Cartesian3.fromDegrees(d.longitude,d.latitude),
       point : {
         pixelSize :12,
-        color : color_category_scale(d.seq[0].water_stress_category),
+        color : color_category_scale(d.seq[focus_index].water_stress_category),
         outlineColor : Cesium.Color.WHITE,
         outlineWidth : 1
       },
@@ -146,7 +198,12 @@ d3.csv('/data/water_out.csv', function(err, data)
         outlineWidth : 2,
         verticalOrigin : Cesium.VerticalOrigin.BOTTOM,
         pixelOffset : new Cesium.Cartesian2(0, -9)
-      }
+      },
+      description : "<dl>"+
+        "<dt>Country</dt><dd>"+d.country_name+"</dd>"+
+        "<dt>Year</dt><dd>"+d.seq[focus_index].year+"</dd>"+
+        "<dt>Water Stress Index</dt><dd>"+d.seq[focus_index].water_stress_index+"</dd>"+
+        "</dl>"
     });
   });
 
